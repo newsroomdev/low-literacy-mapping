@@ -379,7 +379,7 @@ def deploy(remote='origin'):
     if (app_config.DEPLOYMENT_TARGET == 'production' and env.branch != 'stable'):
         _confirm("You are trying to deploy the '%s' branch to production.\nYou should really only deploy a stable branch.\nDo you know what you're doing?" % env.branch)
 
-    render()
+    # render()
     _gzip_www()
     _deploy_to_s3()
 

@@ -20,16 +20,26 @@ var path = d3.geo.path().projection(projection);
 // add to litmap
 var map = d3.select("#litmap").append("svg")
   .style('height', height + 'px')
-  .style('width', width + 'px');
+  .style('width', width + 'px')
+  .attr("id", "litmap-svg");
 
 // unicorn magic! create SVGs of counties with quantized class q0 thru q9
 // if the shape is also that of a state, label with state class for styling
-d3.json("counties.json", function(error, counties) {
-  map.append("g")
-      .attr("class", "counties")
-    .selectAll("path")
-      .data(topojson.feature(counties, counties.objects.counties).features)
+d3.json("us.json", function(error, us) {
+
+  var land = topojson.mesh(us, us.objects.land)
+    , states = topojson.feature(us, us.objects.states)
+    , counties = topojson.feature(us, us.objects.counties)
+
+  map.append('path')
+      .datum(land)
+      .attr('class', 'land')
+      .attr('d', path);
+
+  map.selectAll("path.counties")
+      .data(counties.features)
     .enter().append("path")
+      .attr("class", "counties")
       .attr("d", path)
       .style('fill', function(d) {
         var value = d.properties.rate;
@@ -37,59 +47,28 @@ d3.json("counties.json", function(error, counties) {
       });
 
   map.append("path")
-    .datum(topojson.mesh(counties, counties.objects.states, function(a, b) { return a !== b; }))
+    .datum(states, function(a, b) { return a !== b; })
     .attr("class", "states")
     .attr("d", path);
 });
 
-// RESIZE FUNCTIONALITY NEEDS LAND FEATURES
+d3.select(window).on('resize', resize);
 
-// d3.select(window).on('resize', resize);
+function resize() {
+  // adjust things when the window size changes
+  width = parseInt(d3.select("#litmap").style("width"));
+  width = width - margin.left - margin.right;
+  height = width * mapRatio;
 
-// var legend = d3.select('#legend')
-//   .append('ul')
-//   .attr('class', 'list-inline');
+  // update projection
+  projection.translate([width / 2, height / 2])
+    .scale(width);
 
-// var keys = legend.selectAll('li.key')
-//   .data(quantize.range());
+  // resize the map container
+  map.style("width", width + "px").style("height", height + "px");
 
-// keys.enter().append('li')
-//   .attr('class', 'key')
-//   .style('border-top-color', String)
-//   .text(function(d) {
-//       var r = quantize.(d);
-//       return formats.percent(r[0]);
-//   });
-
-// function resize() {
-//   // adjust things when the window size changes
-//   width = parseInt(d3.select("#litmap").style("width"));
-//   width = width - margin.left - margin.right;
-//   height = width * mapRatio;
-
-//   // update projection
-//   projection.translate([width / 2, height / 2])
-//     .scale(width);
-
-//   // resize the map container
-//   map.style("width", width + "px").style("height", height + "px");
-
-//   // resize the map
-//   map.select(".land").attr("d", path);
-//   map.selectAll(".counties").attr("d", path);
-//   map.selectAll(".states").attr("d", path);
-// }
-
-// test for MSIE x.x;
-if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)) {
-  // capture x.x portion and store as a number
-  var IEversion = new Number(RegExp.$1);
-  if (IEversion < 9) {
-    var litmap_png = Pancake("litmap", {
-      class: "litmap-png",
-      alt: "A map of low literacy in the United States"
-    });
-
-    litmap_png.replace("litmap");
-  }
+  // resize the map
+  map.select(".land").attr("d", path);
+  map.selectAll(".counties").attr("d", path);
+  map.selectAll(".states").attr("d", path);
 }

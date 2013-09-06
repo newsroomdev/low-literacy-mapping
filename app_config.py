@@ -14,18 +14,18 @@ import os
 NAMES
 """
 # Project name used for display
-PROJECT_NAME = 'Eek, a Rat!'
+PROJECT_NAME = 'Low Literacy Map'
 
 # Project name in urls
-PROJECT_SLUG = 'rats'
+PROJECT_SLUG = 'literacy'
 
 # The name of the repository containing the source
-REPOSITORY_NAME = 'rats'
+REPOSITORY_NAME = 'low-literacy-mapping'
 REPOSITORY_URL = 'git@github.com:geraldarthur/%s.git' % REPOSITORY_NAME
 REPOSITORY_ALT_URL = None # 'git@bitbucket.org:geraldarthur/%s.git' % REPOSITORY_NAME'
 
 # The name to be used in paths on the server
-PROJECT_FILENAME = 'rats'
+PROJECT_FILENAME = 'literacy'
 
 """
 DEPLOYMENT
