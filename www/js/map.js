@@ -42,6 +42,8 @@ d3.json("counties.json", function(error, counties) {
     .attr("d", path);
 });
 
+// RESIZE FUNCTIONALITY NEEDS LAND FEATURES
+
 // d3.select(window).on('resize', resize);
 
 // var legend = d3.select('#legend')
