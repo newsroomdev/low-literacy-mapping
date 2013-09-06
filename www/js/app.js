@@ -1,6 +1,9 @@
 $(function() {
     new FastClick(document.body);
 
+    var ri = responsiveIframe();
+    ri.allowResponsiveEmbedding();
+
     var map,
         geolocate;
 
@@ -10,6 +13,9 @@ $(function() {
       minZoom: 3,
       detectRetina: true,
       retinaVersion: 'wamu.map-jseql4x8',
+      scrollWheelZoom: false,
+      scrollZoom: false,
+
     }).setView([38.91,-77],7);
 
     var tileLayer = L.mapbox.tileLayer('wamu.literacy-map')
