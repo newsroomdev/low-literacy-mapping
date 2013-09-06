@@ -5,15 +5,21 @@ $(function() {
         geolocate;
 
     //Build the map with zoom bounds, and a set view on DC
-    map = L.mapbox.map('litmap', 'wamu.map-nhi22yr3,wamu.literacy-map', {
+    map = L.mapbox.map('litmap', 'wamu.map-nhi22yr3', {
       maxZoom: 9,
       minZoom: 3,
       detectRetina: true,
-      retinaVersion: 'wamu.map-jseql4x8,wamu.literacy-map'
+      retinaVersion: 'wamu.map-jseql4x8',
     }).setView([38.91,-77],7);
 
-    //Movetip
-    map.gridControl.options.follow = true;
+    var tileLayer = L.mapbox.tileLayer('wamu.literacy-map')
+        .addTo(map);
+    var gridLayer = L.mapbox.gridLayer('wamu.literacy-map')
+        .addTo(map);
+    var gridControl = L.mapbox.gridControl(gridLayer, {follow: true})
+        .addTo(map);
+
+    tileLayer.setOpacity(0.8);
 
     //Add the legend
     map.legendControl.addLegend(document.getElementById('legend-content').innerHTML);

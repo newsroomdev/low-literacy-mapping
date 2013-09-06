@@ -9,11 +9,6 @@ var projection = d3.geo.albersUsa()
   .scale(width)
   .translate([width / 2, height / 2]);
 
-// percent formatter
-var formats = {
-  percent: d3.format("%")
-};
-
 // select a range of > 90% of literacy data (0 to 30%)
 // quantize into 9 buckets
 var quantize = d3.scale.quantize()
@@ -78,6 +73,7 @@ d3.json("counties.json", function(error, counties) {
 //   map.style("width", width + "px").style("height", height + "px");
 
 //   // resize the map
+//   map.select(".land").attr("d", path);
 //   map.selectAll(".counties").attr("d", path);
 //   map.selectAll(".states").attr("d", path);
 // }
