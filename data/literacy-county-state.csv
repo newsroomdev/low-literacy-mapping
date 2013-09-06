@@ -1,0 +1,3142 @@
+state,abbr,county,FIPS,rate,total
+Alaska,AK,Aleutians East Borough,02013,27,9%
+Alaska,AK,Aleutians West Census Area,02016,21,9%
+Alaska,AK,Anchorage Municipality,02020,9,9%
+Alaska,AK,Bethel Census Area,02050,14,9%
+Alaska,AK,Bristol Bay Borough,02060,8,9%
+Alaska,AK,Denali Borough,02068,8,9%
+Alaska,AK,Dillingham Census Area,02070,11,9%
+Alaska,AK,Fairbanks North Star Borough,02090,8,9%
+Alaska,AK,Haines Borough,02100,9,9%
+Alaska,AK,Juneau City and Borough,02110,7,9%
+Alaska,AK,Kenai Peninsula Borough,02122,8,9%
+Alaska,AK,Ketchikan Gateway Borough,02130,8,9%
+Alaska,AK,Kodiak Island Borough,02150,14,9%
+Alaska,AK,Lake and Peninsula Borough,02164,14,9%
+Alaska,AK,Matanuska-Susitna Borough,02170,8,9%
+Alaska,AK,Nome Census Area,02180,13,9%
+Alaska,AK,North Slope Borough,02185,12,9%
+Alaska,AK,Northwest Arctic Borough,02188,14,9%
+Alaska,AK,Prince of Wales-Outer Ketchika,02201,11,9%
+Alaska,AK,Sitka City and Borough,02220,7,9%
+Alaska,AK,Skagway-Hoonah-Angoon Census A,02232,9,9%
+Alaska,AK,Southeast Fairbanks Census Are,02240,13,9%
+Alaska,AK,Valdez-Cordova Census Area,02261,9,9%
+Alaska,AK,Wade Hampton Census Area,02270,17,9%
+Alaska,AK,Wrangell-Petersburg Census Are,02280,10,9%
+Alaska,AK,Yakutat City and Borough,02282,9,9%
+Alaska,AK,Yukon-Koyukuk Census Area,02290,14,9%
+Alabama,AL,Autauga County,01001,13,15%
+Alabama,AL,Baldwin County,01003,11,15%
+Alabama,AL,Barbour County,01005,23,15%
+Alabama,AL,Bibb County,01007,17,15%
+Alabama,AL,Blount County,01009,14,15%
+Alabama,AL,Bullock County,01011,34,15%
+Alabama,AL,Butler County,01013,21,15%
+Alabama,AL,Calhoun County,01015,15,15%
+Alabama,AL,Chambers County,01017,20,15%
+Alabama,AL,Cherokee County,01019,16,15%
+Alabama,AL,Chilton County,01021,15,15%
+Alabama,AL,Choctaw County,01023,23,15%
+Alabama,AL,Clarke County,01025,21,15%
+Alabama,AL,Clay County,01027,18,15%
+Alabama,AL,Cleburne County,01029,17,15%
+Alabama,AL,Coffee County,01031,13,15%
+Alabama,AL,Colbert County,01033,15,15%
+Alabama,AL,Conecuh County,01035,23,15%
+Alabama,AL,Coosa County,01037,21,15%
+Alabama,AL,Covington County,01039,16,15%
+Alabama,AL,Crenshaw County,01041,19,15%
+Alabama,AL,Cullman County,01043,13,15%
+Alabama,AL,Dale County,01045,13,15%
+Alabama,AL,Dallas County,01047,24,15%
+Alabama,AL,DeKalb County,01049,18,15%
+Alabama,AL,Elmore County,01051,13,15%
+Alabama,AL,Escambia County,01053,19,15%
+Alabama,AL,Etowah County,01055,14,15%
+Alabama,AL,Fayette County,01057,17,15%
+Alabama,AL,Franklin County,01059,19,15%
+Alabama,AL,Geneva County,01061,16,15%
+Alabama,AL,Greene County,01063,31,15%
+Alabama,AL,Hale County,01065,26,15%
+Alabama,AL,Henry County,01067,18,15%
+Alabama,AL,Houston County,01069,12,15%
+Alabama,AL,Jackson County,01071,15,15%
+Alabama,AL,Jefferson County,01073,13,15%
+Alabama,AL,Lamar County,01075,18,15%
+Alabama,AL,Lauderdale County,01077,13,15%
+Alabama,AL,Lawrence County,01079,21,15%
+Alabama,AL,Lee County,01081,13,15%
+Alabama,AL,Limestone County,01083,14,15%
+Alabama,AL,Lowndes County,01085,28,15%
+Alabama,AL,Macon County,01087,25,15%
+Alabama,AL,Madison County,01089,10,15%
+Alabama,AL,Marengo County,01091,22,15%
+Alabama,AL,Marion County,01093,16,15%
+Alabama,AL,Marshall County,01095,15,15%
+Alabama,AL,Mobile County,01097,16,15%
+Alabama,AL,Monroe County,01099,20,15%
+Alabama,AL,Montgomery County,01101,14,15%
+Alabama,AL,Morgan County,01103,20,15%
+Alabama,AL,Perry County,01105,27,15%
+Alabama,AL,Pickens County,01107,21,15%
+Alabama,AL,Pike County,01109,19,15%
+Alabama,AL,Randolph County,01111,19,15%
+Alabama,AL,Russell County,01113,21,15%
+Alabama,AL,St. Clair County,01115,12,15%
+Alabama,AL,Shelby County,01117,7,15%
+Alabama,AL,Sumter County,01119,28,15%
+Alabama,AL,Talladega County,01121,18,15%
+Alabama,AL,Tallapoosa County,01123,16,15%
+Alabama,AL,Tuscaloosa County,01125,14,15%
+Alabama,AL,Walker County,01127,14,15%
+Alabama,AL,Washington County,01129,20,15%
+Alabama,AL,Wilcox County,01131,30,15%
+Alabama,AL,Winston County,01133,16,15%
+Arkansas,AR,Arkansas County,05001,16,14%
+Arkansas,AR,Ashley County,05003,19,14%
+Arkansas,AR,Baxter County,05005,11,14%
+Arkansas,AR,Benton County,05007,12,14%
+Arkansas,AR,Boone County,05009,11,14%
+Arkansas,AR,Bradley County,05011,22,14%
+Arkansas,AR,Calhoun County,05013,19,14%
+Arkansas,AR,Carroll County,05015,17,14%
+Arkansas,AR,Chicot County,05017,25,14%
+Arkansas,AR,Clark County,05019,15,14%
+Arkansas,AR,Clay County,05021,16,14%
+Arkansas,AR,Cleburne County,05023,12,14%
+Arkansas,AR,Cleveland County,05025,16,14%
+Arkansas,AR,Columbia County,05027,17,14%
+Arkansas,AR,Conway County,05029,15,14%
+Arkansas,AR,Craighead County,05031,12,14%
+Arkansas,AR,Crawford County,05033,13,14%
+Arkansas,AR,Crittenden County,05035,17,14%
+Arkansas,AR,Cross County,05037,17,14%
+Arkansas,AR,Dallas County,05039,22,14%
+Arkansas,AR,Desha County,05041,23,14%
+Arkansas,AR,Drew County,05043,16,14%
+Arkansas,AR,Faulkner County,05045,10,14%
+Arkansas,AR,Franklin County,05047,13,14%
+Arkansas,AR,Fulton County,05049,13,14%
+Arkansas,AR,Garland County,05051,11,14%
+Arkansas,AR,Grant County,05053,12,14%
+Arkansas,AR,Greene County,05055,13,14%
+Arkansas,AR,Hempstead County,05057,23,14%
+Arkansas,AR,Hot Spring County,05059,14,14%
+Arkansas,AR,Howard County,05061,18,14%
+Arkansas,AR,Independence County,05063,13,14%
+Arkansas,AR,Izard County,05065,13,14%
+Arkansas,AR,Jackson County,05067,17,14%
+Arkansas,AR,Jefferson County,05069,18,14%
+Arkansas,AR,Johnson County,05071,17,14%
+Arkansas,AR,Lafayette County,05073,20,14%
+Arkansas,AR,Lawrence County,05075,15,14%
+Arkansas,AR,Lee County,05077,26,14%
+Arkansas,AR,Lincoln County,05079,20,14%
+Arkansas,AR,Little River County,05081,15,14%
+Arkansas,AR,Logan County,05083,14,14%
+Arkansas,AR,Lonoke County,05085,10,14%
+Arkansas,AR,Madison County,05087,15,14%
+Arkansas,AR,Marion County,05089,12,14%
+Arkansas,AR,Miller County,05091,15,14%
+Arkansas,AR,Mississippi County,05093,18,14%
+Arkansas,AR,Monroe County,05095,22,14%
+Arkansas,AR,Montgomery County,05097,15,14%
+Arkansas,AR,Nevada County,05099,19,14%
+Arkansas,AR,Newton County,05101,14,14%
+Arkansas,AR,Ouachita County,05103,17,14%
+Arkansas,AR,Perry County,05105,13,14%
+Arkansas,AR,Phillips County,05107,22,14%
+Arkansas,AR,Pike County,05109,16,14%
+Arkansas,AR,Poinsett County,05111,18,14%
+Arkansas,AR,Polk County,05113,13,14%
+Arkansas,AR,Pope County,05115,11,14%
+Arkansas,AR,Prairie County,05117,16,14%
+Arkansas,AR,Pulaski County,05119,10,14%
+Arkansas,AR,Randolph County,05121,14,14%
+Arkansas,AR,St. Francis County,05123,22,14%
+Arkansas,AR,Saline County,05125,9,14%
+Arkansas,AR,Scott County,05127,17,14%
+Arkansas,AR,Searcy County,05129,16,14%
+Arkansas,AR,Sebastian County,05131,14,14%
+Arkansas,AR,Sevier County,05133,25,14%
+Arkansas,AR,Sharp County,05135,13,14%
+Arkansas,AR,Stone County,05137,14,14%
+Arkansas,AR,Union County,05139,16,14%
+Arkansas,AR,Van Buren County,05141,13,14%
+Arkansas,AR,Washington County,05143,13,14%
+Arkansas,AR,White County,05145,13,14%
+Arkansas,AR,Woodruff County,05147,21,14%
+Arkansas,AR,Yell County,05149,22,14%
+Arizona,AZ,Apache County,04001,14,13%
+Arizona,AZ,Cochise County,04003,15,13%
+Arizona,AZ,Coconino County,04005,9,13%
+Arizona,AZ,Gila County,04007,12,13%
+Arizona,AZ,Graham County,04009,14,13%
+Arizona,AZ,Greenlee County,04011,14,13%
+Arizona,AZ,La Paz County,04012,19,13%
+Arizona,AZ,Maricopa County,04013,12,13%
+Arizona,AZ,Mohave County,04015,13,13%
+Arizona,AZ,Navajo County,04017,13,13%
+Arizona,AZ,Pima County,04019,11,13%
+Arizona,AZ,Pinal County,04021,16,13%
+Arizona,AZ,Santa Cruz County,04023,45,13%
+Arizona,AZ,Yavapai County,04025,10,13%
+Arizona,AZ,Yuma County,04027,30,13%
+California,CA,Alameda County,06001,19,23%
+California,CA,Alpine County,06003,8,23%
+California,CA,Amador County,06005,10,23%
+California,CA,Butte County,06007,11,23%
+California,CA,Calaveras County,06009,9,23%
+California,CA,Colusa County,06011,34,23%
+California,CA,Contra Costa County,06013,12,23%
+California,CA,Del Norte County,06015,15,23%
+California,CA,El Dorado County,06017,7,23%
+California,CA,Fresno County,06019,27,23%
+California,CA,Glenn County,06021,22,23%
+California,CA,Humboldt County,06023,9,23%
+California,CA,Imperial County,06025,41,23%
+California,CA,Inyo County,06027,12,23%
+California,CA,Kern County,06029,24,23%
+California,CA,Kings County,06031,26,23%
+California,CA,Lake County,06033,13,23%
+California,CA,Lassen County,06035,12,23%
+California,CA,Los Angeles County,06037,33,23%
+California,CA,Madera County,06039,29,23%
+California,CA,Marin County,06041,7,23%
+California,CA,Mariposa County,06043,9,23%
+California,CA,Mendocino County,06045,13,23%
+California,CA,Merced County,06047,24,23%
+California,CA,Modoc County,06049,13,23%
+California,CA,Mono County,06051,11,23%
+California,CA,Monterey County,06053,28,23%
+California,CA,Napa County,06055,14,23%
+California,CA,Nevada County,06057,7,23%
+California,CA,Orange County,06059,26,23%
+California,CA,Placer County,06061,7,23%
+California,CA,Plumas County,06063,8,23%
+California,CA,Riverside County,06065,20,23%
+California,CA,Sacramento County,06067,13,23%
+California,CA,San Benito County,06069,19,23%
+California,CA,San Bernardino County,06071,20,23%
+California,CA,San Diego County,06073,21,23%
+California,CA,San Francisco County,06075,18,23%
+California,CA,San Joaquin County,06077,23,23%
+California,CA,San Luis Obispo County,06079,10,23%
+California,CA,San Mateo County,06081,15,23%
+California,CA,Santa Barbara County,06083,18,23%
+California,CA,Santa Clara County,06085,16,23%
+California,CA,Santa Cruz County,06087,13,23%
+California,CA,Shasta County,06089,10,23%
+California,CA,Sierra County,06091,9,23%
+California,CA,Siskiyou County,06093,10,23%
+California,CA,Solano County,06095,14,23%
+California,CA,Sonoma County,06097,11,23%
+California,CA,Stanislaus County,06099,21,23%
+California,CA,Sutter County,06101,19,23%
+California,CA,Tehama County,06103,15,23%
+California,CA,Trinity County,06105,10,23%
+California,CA,Tulare County,06107,32,23%
+California,CA,Tuolumne County,06109,9,23%
+California,CA,Ventura County,06111,16,23%
+California,CA,Yolo County,06113,16,23%
+California,CA,Yuba County,06115,18,23%
+Colorado,CO,Adams County,08001,14,10%
+Colorado,CO,Alamosa County,08003,14,10%
+Colorado,CO,Arapahoe County,08005,8,10%
+Colorado,CO,Archuleta County,08007,9,10%
+Colorado,CO,Baca County,08009,12,10%
+Colorado,CO,Bent County,08011,16,10%
+Colorado,CO,Boulder County,08013,7,10%
+Colorado,CO,Chaffee County,08015,8,10%
+Colorado,CO,Cheyenne County,08017,11,10%
+Colorado,CO,Clear Creek County,08019,5,10%
+Colorado,CO,Conejos County,08021,21,10%
+Colorado,CO,Costilla County,08023,25,10%
+Colorado,CO,Crowley County,08025,14,10%
+Colorado,CO,Custer County,08027,7,10%
+Colorado,CO,Delta County,08029,12,10%
+Colorado,CO,Denver County,08031,16,10%
+Colorado,CO,Dolores County,08033,11,10%
+Colorado,CO,Douglas County,08035,4,10%
+Colorado,CO,Eagle County,08037,13,10%
+Colorado,CO,Elbert County,08039,6,10%
+Colorado,CO,El Paso County,08041,8,10%
+Colorado,CO,Fremont County,08043,12,10%
+Colorado,CO,Garfield County,08045,12,10%
+Colorado,CO,Gilpin County,08047,6,10%
+Colorado,CO,Grand County,08049,7,10%
+Colorado,CO,Gunnison County,08051,6,10%
+Colorado,CO,Hinsdale County,08053,6,10%
+Colorado,CO,Huerfano County,08055,15,10%
+Colorado,CO,Jackson County,08057,10,10%
+Colorado,CO,Jefferson County,08059,6,10%
+Colorado,CO,Kiowa County,08061,9,10%
+Colorado,CO,Kit Carson County,08063,13,10%
+Colorado,CO,Lake County,08065,19,10%
+Colorado,CO,La Plata County,08067,7,10%
+Colorado,CO,Larimer County,08069,7,10%
+Colorado,CO,Las Animas County,08071,14,10%
+Colorado,CO,Lincoln County,08073,11,10%
+Colorado,CO,Logan County,08075,11,10%
+Colorado,CO,Mesa County,08077,9,10%
+Colorado,CO,Mineral County,08079,7,10%
+Colorado,CO,Moffat County,08081,11,10%
+Colorado,CO,Montezuma County,08083,11,10%
+Colorado,CO,Montrose County,08085,12,10%
+Colorado,CO,Morgan County,08087,22,10%
+Colorado,CO,Otero County,08089,16,10%
+Colorado,CO,Ouray County,08091,6,10%
+Colorado,CO,Park County,08093,6,10%
+Colorado,CO,Phillips County,08095,13,10%
+Colorado,CO,Pitkin County,08097,6,10%
+Colorado,CO,Prowers County,08099,19,10%
+Colorado,CO,Pueblo County,08101,13,10%
+Colorado,CO,Rio Blanco County,08103,9,10%
+Colorado,CO,Rio Grande County,08105,16,10%
+Colorado,CO,Routt County,08107,5,10%
+Colorado,CO,Saguache County,08109,23,10%
+Colorado,CO,San Juan County,08111,6,10%
+Colorado,CO,San Miguel County,08113,6,10%
+Colorado,CO,Sedgwick County,08115,12,10%
+Colorado,CO,Summit County,08117,8,10%
+Colorado,CO,Teller County,08119,6,10%
+Colorado,CO,Washington County,08121,10,10%
+Colorado,CO,Weld County,08123,14,10%
+Colorado,CO,Yuma County,08125,14,10%
+Connecticut,CT,Fairfield County,09001,10,9%
+Connecticut,CT,Hartford County,09003,9,9%
+Connecticut,CT,Litchfield County,09005,6,9%
+Connecticut,CT,Middlesex County,09007,5,9%
+Connecticut,CT,New Haven County,09009,9,9%
+Connecticut,CT,New London County,09011,7,9%
+Connecticut,CT,Tolland County,09013,5,9%
+Connecticut,CT,Windham County,09015,9,9%
+,DC,District of Columbia,11001,19,
+Delaware,DE,Kent County,10001,13,11%
+Delaware,DE,New Castle County,10003,10,11%
+Delaware,DE,Sussex County,10005,11,11%
+Florida,FL,Alachua County,12001,11,20%
+Florida,FL,Baker County,12003,15,20%
+Florida,FL,Bay County,12005,11,20%
+Florida,FL,Bradford County,12007,17,20%
+Florida,FL,Brevard County,12009,10,20%
+Florida,FL,Broward County,12011,22,20%
+Florida,FL,Calhoun County,12013,18,20%
+Florida,FL,Charlotte County,12015,12,20%
+Florida,FL,Citrus County,12017,13,20%
+Florida,FL,Clay County,12019,9,20%
+Florida,FL,Collier County,12021,17,20%
+Florida,FL,Columbia County,12023,15,20%
+Florida,FL,DeSoto County,12027,34,20%
+Florida,FL,Dixie County,12029,18,20%
+Florida,FL,Duval County,12031,12,20%
+Florida,FL,Escambia County,12033,12,20%
+Florida,FL,Flagler County,12035,11,20%
+Florida,FL,Franklin County,12037,17,20%
+Florida,FL,Gadsden County,12039,25,20%
+Florida,FL,Gilchrist County,12041,14,20%
+Florida,FL,Glades County,12043,21,20%
+Florida,FL,Gulf County,12045,16,20%
+Florida,FL,Hamilton County,12047,24,20%
+Florida,FL,Hardee County,12049,35,20%
+Florida,FL,Hendry County,12051,42,20%
+Florida,FL,Hernando County,12053,12,20%
+Florida,FL,Highlands County,12055,18,20%
+Florida,FL,Hillsborough County,12057,15,20%
+Florida,FL,Holmes County,12059,17,20%
+Florida,FL,Indian River County,12061,12,20%
+Florida,FL,Jackson County,12063,17,20%
+Florida,FL,Jefferson County,12065,17,20%
+Florida,FL,Lafayette County,12067,22,20%
+Florida,FL,Lake County,12069,12,20%
+Florida,FL,Lee County,12071,13,20%
+Florida,FL,Leon County,12073,10,20%
+Florida,FL,Levy County,12075,16,20%
+Florida,FL,Liberty County,12077,20,20%
+Florida,FL,Madison County,12079,21,20%
+Florida,FL,Manatee County,12081,13,20%
+Florida,FL,Marion County,12083,14,20%
+Florida,FL,Martin County,12085,11,20%
+Florida,FL,Miami-Dade County,12086,52,20%
+Florida,FL,Monroe County,12087,14,20%
+Florida,FL,Nassau County,12089,10,20%
+Florida,FL,Okaloosa County,12091,9,20%
+Florida,FL,Okeechobee County,12093,24,20%
+Florida,FL,Orange County,12095,20,20%
+Florida,FL,Osceola County,12097,19,20%
+Florida,FL,Palm Beach County,12099,14,20%
+Florida,FL,Pasco County,12101,12,20%
+Florida,FL,Pinellas County,12103,11,20%
+Florida,FL,Polk County,12105,16,20%
+Florida,FL,Putnam County,12107,18,20%
+Florida,FL,St. Johns County,12109,7,20%
+Florida,FL,St. Lucie County,12111,16,20%
+Florida,FL,Santa Rosa County,12113,9,20%
+Florida,FL,Sarasota County,12115,10,20%
+Florida,FL,Seminole County,12117,11,20%
+Florida,FL,Sumter County,12119,16,20%
+Florida,FL,Suwannee County,12121,18,20%
+Florida,FL,Taylor County,12123,18,20%
+Florida,FL,Union County,12125,17,20%
+Florida,FL,Volusia County,12127,12,20%
+Florida,FL,Wakulla County,12129,12,20%
+Florida,FL,Walton County,12131,13,20%
+Florida,FL,Washington County,12133,17,20%
+Georgia,GA,Appling County,13001,21,17%
+Georgia,GA,Atkinson County,13003,36,17%
+Georgia,GA,Bacon County,13005,22,17%
+Georgia,GA,Baker County,13007,27,17%
+Georgia,GA,Baldwin County,13009,20,17%
+Georgia,GA,Banks County,13011,17,17%
+Georgia,GA,Barrow County,13013,14,17%
+Georgia,GA,Bartow County,13015,13,17%
+Georgia,GA,Ben Hill County,13017,24,17%
+Georgia,GA,Berrien County,13019,17,17%
+Georgia,GA,Bibb County,13021,20,17%
+Georgia,GA,Bleckley County,13023,17,17%
+Georgia,GA,Brantley County,13025,17,17%
+Georgia,GA,Brooks County,13027,23,17%
+Georgia,GA,Bryan County,13029,13,17%
+Georgia,GA,Bulloch County,13031,16,17%
+Georgia,GA,Burke County,13033,26,17%
+Georgia,GA,Butts County,13035,18,17%
+Georgia,GA,Calhoun County,13037,27,17%
+Georgia,GA,Camden County,13039,13,17%
+Georgia,GA,Candler County,13043,27,17%
+Georgia,GA,Carroll County,13045,21,17%
+Georgia,GA,Catoosa County,13047,12,17%
+Georgia,GA,Charlton County,13049,22,17%
+Georgia,GA,Chatham County,13051,15,17%
+Georgia,GA,Chattahoochee County,13053,13,17%
+Georgia,GA,Chattooga County,13055,19,17%
+Georgia,GA,Cherokee County,13057,9,17%
+Georgia,GA,Clarke County,13059,16,17%
+Georgia,GA,Clay County,13061,28,17%
+Georgia,GA,Clayton County,13063,21,17%
+Georgia,GA,Clinch County,13065,22,17%
+Georgia,GA,Cobb County,13067,12,17%
+Georgia,GA,Coffee County,13069,23,17%
+Georgia,GA,Colquitt County,13071,26,17%
+Georgia,GA,Columbia County,13073,9,17%
+Georgia,GA,Cook County,13075,22,17%
+Georgia,GA,Coweta County,13077,12,17%
+Georgia,GA,Crawford County,13079,20,17%
+Georgia,GA,Crisp County,13081,24,17%
+Georgia,GA,Dade County,13083,14,17%
+Georgia,GA,Dawson County,13085,10,17%
+Georgia,GA,Decatur County,13087,21,17%
+Georgia,GA,DeKalb County,13089,20,17%
+Georgia,GA,Dodge County,13091,21,17%
+Georgia,GA,Dooly County,13093,25,17%
+Georgia,GA,Dougherty County,13095,20,17%
+Georgia,GA,Douglas County,13097,12,17%
+Georgia,GA,Early County,13099,22,17%
+Georgia,GA,Echols County,13101,32,17%
+Georgia,GA,Effingham County,13103,14,17%
+Georgia,GA,Elbert County,13105,22,17%
+Georgia,GA,Emanuel County,13107,26,17%
+Georgia,GA,Evans County,13109,26,17%
+Georgia,GA,Fannin County,13111,15,17%
+Georgia,GA,Fayette County,13113,8,17%
+Georgia,GA,Floyd County,13115,17,17%
+Georgia,GA,Forsyth County,13117,8,17%
+Georgia,GA,Franklin County,13119,17,17%
+Georgia,GA,Fulton County,13121,13,17%
+Georgia,GA,Gilmer County,13123,18,17%
+Georgia,GA,Glascock County,13125,18,17%
+Georgia,GA,Glynn County,13127,13,17%
+Georgia,GA,Gordon County,13129,19,17%
+Georgia,GA,Grady County,13131,24,17%
+Georgia,GA,Greene County,13133,21,17%
+Georgia,GA,Gwinnett County,13135,19,17%
+Georgia,GA,Habersham County,13137,18,17%
+Georgia,GA,Hall County,13139,25,17%
+Georgia,GA,Hancock County,13141,31,17%
+Georgia,GA,Haralson County,13143,16,17%
+Georgia,GA,Harris County,13145,12,17%
+Georgia,GA,Hart County,13147,17,17%
+Georgia,GA,Heard County,13149,17,17%
+Georgia,GA,Henry County,13151,11,17%
+Georgia,GA,Houston County,13153,13,17%
+Georgia,GA,Irwin County,13155,20,17%
+Georgia,GA,Jackson County,13157,16,17%
+Georgia,GA,Jasper County,13159,17,17%
+Georgia,GA,Jeff Davis County,13161,21,17%
+Georgia,GA,Jefferson County,13163,28,17%
+Georgia,GA,Jenkins County,13165,24,17%
+Georgia,GA,Johnson County,13167,25,17%
+Georgia,GA,Jones County,13169,21,17%
+Georgia,GA,Lamar County,13171,16,17%
+Georgia,GA,Lanier County,13173,19,17%
+Georgia,GA,Laurens County,13175,20,17%
+Georgia,GA,Lee County,13177,13,17%
+Georgia,GA,Liberty County,13179,18,17%
+Georgia,GA,Lincoln County,13181,18,17%
+Georgia,GA,Long County,13183,22,17%
+Georgia,GA,Lowndes County,13185,16,17%
+Georgia,GA,Lumpkin County,13187,13,17%
+Georgia,GA,McDuffie County,13189,20,17%
+Georgia,GA,McIntosh County,13191,20,17%
+Georgia,GA,Macon County,13193,28,17%
+Georgia,GA,Madison County,13195,17,17%
+Georgia,GA,Marion County,13197,25,17%
+Georgia,GA,Meriwether County,13199,20,17%
+Georgia,GA,Miller County,13201,19,17%
+Georgia,GA,Mitchell County,13205,25,17%
+Georgia,GA,Monroe County,13207,16,17%
+Georgia,GA,Montgomery County,13209,21,17%
+Georgia,GA,Morgan County,13211,17,17%
+Georgia,GA,Murray County,13213,19,17%
+Georgia,GA,Muscogee County,13215,17,17%
+Georgia,GA,Newton County,13217,14,17%
+Georgia,GA,Oconee County,13219,9,17%
+Georgia,GA,Oglethorpe County,13221,17,17%
+Georgia,GA,Paulding County,13223,11,17%
+Georgia,GA,Peach County,13225,21,17%
+Georgia,GA,Pickens County,13227,12,17%
+Georgia,GA,Pierce County,13229,19,17%
+Georgia,GA,Pike County,13231,14,17%
+Georgia,GA,Polk County,13233,22,17%
+Georgia,GA,Pulaski County,13235,19,17%
+Georgia,GA,Putnam County,13237,19,17%
+Georgia,GA,Quitman County,13239,26,17%
+Georgia,GA,Rabun County,13241,14,17%
+Georgia,GA,Randolph County,13243,27,17%
+Georgia,GA,Richmond County,13245,18,17%
+Georgia,GA,Rockdale County,13247,13,17%
+Georgia,GA,Schley County,13249,21,17%
+Georgia,GA,Screven County,13251,24,17%
+Georgia,GA,Seminole County,13253,21,17%
+Georgia,GA,Spalding County,13255,18,17%
+Georgia,GA,Stephens County,13257,16,17%
+Georgia,GA,Stewart County,13259,29,17%
+Georgia,GA,Sumter County,13261,21,17%
+Georgia,GA,Talbot County,13263,29,17%
+Georgia,GA,Taliaferro County,13265,28,17%
+Georgia,GA,Tattnall County,13267,27,17%
+Georgia,GA,Taylor County,13269,26,17%
+Georgia,GA,Telfair County,13271,25,17%
+Georgia,GA,Terrell County,13273,27,17%
+Georgia,GA,Thomas County,13275,18,17%
+Georgia,GA,Tift County,13277,21,17%
+Georgia,GA,Toombs County,13279,23,17%
+Georgia,GA,Towns County,13281,13,17%
+Georgia,GA,Treutlen County,13283,25,17%
+Georgia,GA,Troup County,13285,17,17%
+Georgia,GA,Turner County,13287,24,17%
+Georgia,GA,Twiggs County,13289,25,17%
+Georgia,GA,Union County,13291,13,17%
+Georgia,GA,Upson County,13293,20,17%
+Georgia,GA,Walker County,13295,15,17%
+Georgia,GA,Walton County,13297,13,17%
+Georgia,GA,Ware County,13299,20,17%
+Georgia,GA,Warren County,13301,29,17%
+Georgia,GA,Washington County,13303,24,17%
+Georgia,GA,Wayne County,13305,18,17%
+Georgia,GA,Webster County,13307,26,17%
+Georgia,GA,Wheeler County,13309,24,17%
+Georgia,GA,White County,13311,13,17%
+Georgia,GA,Whitfield County,13313,28,17%
+Georgia,GA,Wilcox County,13315,24,17%
+Georgia,GA,Wilkes County,13317,23,17%
+Georgia,GA,Wilkinson County,13319,23,17%
+Georgia,GA,Worth County,13321,20,17%
+Hawaii,HI,Hawaii County,15001,13,16%
+Hawaii,HI,Honolulu County,15003,17,16%
+Hawaii,HI,Kalawao County,15005,20,16%
+Hawaii,HI,Kauai County,15007,12,16%
+Hawaii,HI,Maui County,15009,14,16%
+Iowa,IA,Adair County,19001,8,7%
+Iowa,IA,Adams County,19003,8,7%
+Iowa,IA,Allamakee County,19005,11,7%
+Iowa,IA,Appanoose County,19007,9,7%
+Iowa,IA,Audubon County,19009,9,7%
+Iowa,IA,Benton County,19011,7,7%
+Iowa,IA,Black Hawk County,19013,8,7%
+Iowa,IA,Boone County,19015,6,7%
+Iowa,IA,Bremer County,19017,7,7%
+Iowa,IA,Buchanan County,19019,8,7%
+Iowa,IA,Buena Vista County,19021,13,7%
+Iowa,IA,Butler County,19023,8,7%
+Iowa,IA,Calhoun County,19025,7,7%
+Iowa,IA,Carroll County,19027,7,7%
+Iowa,IA,Cass County,19029,7,7%
+Iowa,IA,Cedar County,19031,7,7%
+Iowa,IA,Cerro Gordo County,19033,6,7%
+Iowa,IA,Cherokee County,19035,7,7%
+Iowa,IA,Chickasaw County,19037,8,7%
+Iowa,IA,Clarke County,19039,9,7%
+Iowa,IA,Clay County,19041,7,7%
+Iowa,IA,Clayton County,19043,9,7%
+Iowa,IA,Clinton County,19045,8,7%
+Iowa,IA,Crawford County,19047,12,7%
+Iowa,IA,Dallas County,19049,7,7%
+Iowa,IA,Davis County,19051,9,7%
+Iowa,IA,Decatur County,19053,9,7%
+Iowa,IA,Delaware County,19055,8,7%
+Iowa,IA,Des Moines County,19057,8,7%
+Iowa,IA,Dickinson County,19059,6,7%
+Iowa,IA,Dubuque County,19061,8,7%
+Iowa,IA,Emmet County,19063,8,7%
+Iowa,IA,Fayette County,19065,8,7%
+Iowa,IA,Floyd County,19067,8,7%
+Iowa,IA,Franklin County,19069,9,7%
+Iowa,IA,Fremont County,19071,8,7%
+Iowa,IA,Greene County,19073,8,7%
+Iowa,IA,Grundy County,19075,7,7%
+Iowa,IA,Guthrie County,19077,8,7%
+Iowa,IA,Hamilton County,19079,7,7%
+Iowa,IA,Hancock County,19081,7,7%
+Iowa,IA,Hardin County,19083,7,7%
+Iowa,IA,Harrison County,19085,8,7%
+Iowa,IA,Henry County,19087,8,7%
+Iowa,IA,Howard County,19089,9,7%
+Iowa,IA,Humboldt County,19091,7,7%
+Iowa,IA,Ida County,19093,8,7%
+Iowa,IA,Iowa County,19095,7,7%
+Iowa,IA,Jackson County,19097,9,7%
+Iowa,IA,Jasper County,19099,8,7%
+Iowa,IA,Jefferson County,19101,7,7%
+Iowa,IA,Johnson County,19103,5,7%
+Iowa,IA,Jones County,19105,8,7%
+Iowa,IA,Keokuk County,19107,9,7%
+Iowa,IA,Kossuth County,19109,7,7%
+Iowa,IA,Lee County,19111,8,7%
+Iowa,IA,Linn County,19113,6,7%
+Iowa,IA,Louisa County,19115,12,7%
+Iowa,IA,Lucas County,19117,10,7%
+Iowa,IA,Lyon County,19119,8,7%
+Iowa,IA,Madison County,19121,7,7%
+Iowa,IA,Mahaska County,19123,8,7%
+Iowa,IA,Marion County,19125,8,7%
+Iowa,IA,Marshall County,19127,10,7%
+Iowa,IA,Mills County,19129,7,7%
+Iowa,IA,Mitchell County,19131,8,7%
+Iowa,IA,Monona County,19133,8,7%
+Iowa,IA,Monroe County,19135,9,7%
+Iowa,IA,Montgomery County,19137,8,7%
+Iowa,IA,Muscatine County,19139,9,7%
+Iowa,IA,O'Brien County,19141,8,7%
+Iowa,IA,Osceola County,19143,8,7%
+Iowa,IA,Page County,19145,8,7%
+Iowa,IA,Palo Alto County,19147,7,7%
+Iowa,IA,Plymouth County,19149,7,7%
+Iowa,IA,Pocahontas County,19151,7,7%
+Iowa,IA,Polk County,19153,7,7%
+Iowa,IA,Pottawattamie County,19155,8,7%
+Iowa,IA,Poweshiek County,19157,8,7%
+Iowa,IA,Ringgold County,19159,9,7%
+Iowa,IA,Sac County,19161,8,7%
+Iowa,IA,Scott County,19163,7,7%
+Iowa,IA,Shelby County,19165,8,7%
+Iowa,IA,Sioux County,19167,8,7%
+Iowa,IA,Story County,19169,6,7%
+Iowa,IA,Tama County,19171,8,7%
+Iowa,IA,Taylor County,19173,10,7%
+Iowa,IA,Union County,19175,8,7%
+Iowa,IA,Van Buren County,19177,9,7%
+Iowa,IA,Wapello County,19179,9,7%
+Iowa,IA,Warren County,19181,6,7%
+Iowa,IA,Washington County,19183,8,7%
+Iowa,IA,Wayne County,19185,9,7%
+Iowa,IA,Webster County,19187,8,7%
+Iowa,IA,Winnebago County,19189,7,7%
+Iowa,IA,Winneshiek County,19191,8,7%
+Iowa,IA,Woodbury County,19193,10,7%
+Iowa,IA,Worth County,19195,7,7%
+Iowa,IA,Wright County,19197,8,7%
+Idaho,ID,Ada County,16001,7,11%
+Idaho,ID,Adams County,16003,11,11%
+Idaho,ID,Bannock County,16005,8,11%
+Idaho,ID,Bear Lake County,16007,11,11%
+Idaho,ID,Benewah County,16009,12,11%
+Idaho,ID,Bingham County,16011,13,11%
+Idaho,ID,Blaine County,16013,8,11%
+Idaho,ID,Boise County,16015,9,11%
+Idaho,ID,Bonner County,16017,10,11%
+Idaho,ID,Bonneville County,16019,9,11%
+Idaho,ID,Boundary County,16021,12,11%
+Idaho,ID,Butte County,16023,12,11%
+Idaho,ID,Camas County,16025,9,11%
+Idaho,ID,Canyon County,16027,14,11%
+Idaho,ID,Caribou County,16029,9,11%
+Idaho,ID,Cassia County,16031,15,11%
+Idaho,ID,Clark County,16033,37,11%
+Idaho,ID,Clearwater County,16035,11,11%
+Idaho,ID,Custer County,16037,11,11%
+Idaho,ID,Elmore County,16039,10,11%
+Idaho,ID,Franklin County,16041,11,11%
+Idaho,ID,Fremont County,16043,15,11%
+Idaho,ID,Gem County,16045,13,11%
+Idaho,ID,Gooding County,16047,20,11%
+Idaho,ID,Idaho County,16049,11,11%
+Idaho,ID,Jefferson County,16051,11,11%
+Idaho,ID,Jerome County,16053,16,11%
+Idaho,ID,Kootenai County,16055,12,11%
+Idaho,ID,Latah County,16057,8,11%
+Idaho,ID,Lemhi County,16059,10,11%
+Idaho,ID,Lewis County,16061,10,11%
+Idaho,ID,Lincoln County,16063,16,11%
+Idaho,ID,Madison County,16065,9,11%
+Idaho,ID,Minidoka County,16067,19,11%
+Idaho,ID,Nez Perce County,16069,9,11%
+Idaho,ID,Oneida County,16071,9,11%
+Idaho,ID,Owyhee County,16073,23,11%
+Idaho,ID,Payette County,16075,15,11%
+Idaho,ID,Power County,16077,19,11%
+Idaho,ID,Shoshone County,16079,13,11%
+Idaho,ID,Teton County,16081,11,11%
+Idaho,ID,Twin Falls County,16083,12,11%
+Idaho,ID,Valley County,16085,8,11%
+Idaho,ID,Washington County,16087,16,11%
+Illinois,IL,Adams County,17001,8,13%
+Illinois,IL,Alexander County,17003,15,13%
+Illinois,IL,Bond County,17005,9,13%
+Illinois,IL,Boone County,17007,11,13%
+Illinois,IL,Brown County,17009,12,13%
+Illinois,IL,Bureau County,17011,8,13%
+Illinois,IL,Calhoun County,17013,8,13%
+Illinois,IL,Carroll County,17015,9,13%
+Illinois,IL,Cass County,17017,13,13%
+Illinois,IL,Champaign County,17019,8,13%
+Illinois,IL,Christian County,17021,9,13%
+Illinois,IL,Clark County,17023,8,13%
+Illinois,IL,Clay County,17025,9,13%
+Illinois,IL,Clinton County,17027,8,13%
+Illinois,IL,Coles County,17029,8,13%
+Illinois,IL,Cook County,17031,19,13%
+Illinois,IL,Crawford County,17033,9,13%
+Illinois,IL,Cumberland County,17035,9,13%
+Illinois,IL,DeKalb County,17037,7,13%
+Illinois,IL,De Witt County,17039,9,13%
+Illinois,IL,Douglas County,17041,9,13%
+Illinois,IL,DuPage County,17043,7,13%
+Illinois,IL,Edgar County,17045,9,13%
+Illinois,IL,Edwards County,17047,8,13%
+Illinois,IL,Effingham County,17049,8,13%
+Illinois,IL,Fayette County,17051,11,13%
+Illinois,IL,Ford County,17053,8,13%
+Illinois,IL,Franklin County,17055,9,13%
+Illinois,IL,Fulton County,17057,9,13%
+Illinois,IL,Gallatin County,17059,10,13%
+Illinois,IL,Greene County,17061,10,13%
+Illinois,IL,Grundy County,17063,7,13%
+Illinois,IL,Hamilton County,17065,8,13%
+Illinois,IL,Hancock County,17067,8,13%
+Illinois,IL,Hardin County,17069,10,13%
+Illinois,IL,Henderson County,17071,9,13%
+Illinois,IL,Henry County,17073,8,13%
+Illinois,IL,Iroquois County,17075,9,13%
+Illinois,IL,Jackson County,17077,9,13%
+Illinois,IL,Jasper County,17079,8,13%
+Illinois,IL,Jefferson County,17081,9,13%
+Illinois,IL,Jersey County,17083,7,13%
+Illinois,IL,Jo Daviess County,17085,8,13%
+Illinois,IL,Johnson County,17087,11,13%
+Illinois,IL,Kane County,17089,11,13%
+Illinois,IL,Kankakee County,17091,10,13%
+Illinois,IL,Kendall County,17093,6,13%
+Illinois,IL,Knox County,17095,9,13%
+Illinois,IL,Lake County,17097,11,13%
+Illinois,IL,La Salle County,17099,9,13%
+Illinois,IL,Lawrence County,17101,9,13%
+Illinois,IL,Lee County,17103,9,13%
+Illinois,IL,Livingston County,17105,10,13%
+Illinois,IL,Logan County,17107,9,13%
+Illinois,IL,McDonough County,17109,8,13%
+Illinois,IL,McHenry County,17111,8,13%
+Illinois,IL,McLean County,17113,6,13%
+Illinois,IL,Macon County,17115,9,13%
+Illinois,IL,Macoupin County,17117,8,13%
+Illinois,IL,Madison County,17119,7,13%
+Illinois,IL,Marion County,17121,8,13%
+Illinois,IL,Marshall County,17123,8,13%
+Illinois,IL,Mason County,17125,9,13%
+Illinois,IL,Massac County,17127,9,13%
+Illinois,IL,Menard County,17129,7,13%
+Illinois,IL,Mercer County,17131,7,13%
+Illinois,IL,Monroe County,17133,5,13%
+Illinois,IL,Montgomery County,17135,10,13%
+Illinois,IL,Morgan County,17137,9,13%
+Illinois,IL,Moultrie County,17139,8,13%
+Illinois,IL,Ogle County,17141,9,13%
+Illinois,IL,Peoria County,17143,8,13%
+Illinois,IL,Perry County,17145,10,13%
+Illinois,IL,Piatt County,17147,7,13%
+Illinois,IL,Pike County,17149,10,13%
+Illinois,IL,Pope County,17151,9,13%
+Illinois,IL,Pulaski County,17153,13,13%
+Illinois,IL,Putnam County,17155,8,13%
+Illinois,IL,Randolph County,17157,11,13%
+Illinois,IL,Richland County,17159,7,13%
+Illinois,IL,Rock Island County,17161,9,13%
+Illinois,IL,St. Clair County,17163,8,13%
+Illinois,IL,Saline County,17165,8,13%
+Illinois,IL,Sangamon County,17167,7,13%
+Illinois,IL,Schuyler County,17169,9,13%
+Illinois,IL,Scott County,17171,9,13%
+Illinois,IL,Shelby County,17173,9,13%
+Illinois,IL,Stark County,17175,8,13%
+Illinois,IL,Stephenson County,17177,8,13%
+Illinois,IL,Tazewell County,17179,7,13%
+Illinois,IL,Union County,17181,9,13%
+Illinois,IL,Vermilion County,17183,10,13%
+Illinois,IL,Wabash County,17185,7,13%
+Illinois,IL,Warren County,17187,9,13%
+Illinois,IL,Washington County,17189,8,13%
+Illinois,IL,Wayne County,17191,9,13%
+Illinois,IL,White County,17193,9,13%
+Illinois,IL,Whiteside County,17195,9,13%
+Illinois,IL,Will County,17197,7,13%
+Illinois,IL,Williamson County,17199,8,13%
+Illinois,IL,Winnebago County,17201,10,13%
+Illinois,IL,Woodford County,17203,6,13%
+Indiana,IN,Adams County,18001,9,8%
+Indiana,IN,Allen County,18003,7,8%
+Indiana,IN,Bartholomew County,18005,8,8%
+Indiana,IN,Benton County,18007,8,8%
+Indiana,IN,Blackford County,18009,9,8%
+Indiana,IN,Boone County,18011,6,8%
+Indiana,IN,Brown County,18013,6,8%
+Indiana,IN,Carroll County,18015,9,8%
+Indiana,IN,Cass County,18017,10,8%
+Indiana,IN,Clark County,18019,7,8%
+Indiana,IN,Clay County,18021,8,8%
+Indiana,IN,Clinton County,18023,12,8%
+Indiana,IN,Crawford County,18025,11,8%
+Indiana,IN,Daviess County,18027,10,8%
+Indiana,IN,Dearborn County,18029,7,8%
+Indiana,IN,Decatur County,18031,9,8%
+Indiana,IN,DeKalb County,18033,8,8%
+Indiana,IN,Delaware County,18035,8,8%
+Indiana,IN,Dubois County,18037,9,8%
+Indiana,IN,Elkhart County,18039,13,8%
+Indiana,IN,Fayette County,18041,10,8%
+Indiana,IN,Floyd County,18043,6,8%
+Indiana,IN,Fountain County,18045,9,8%
+Indiana,IN,Franklin County,18047,8,8%
+Indiana,IN,Fulton County,18049,10,8%
+Indiana,IN,Gibson County,18051,8,8%
+Indiana,IN,Grant County,18053,9,8%
+Indiana,IN,Greene County,18055,9,8%
+Indiana,IN,Hamilton County,18057,5,8%
+Indiana,IN,Hancock County,18059,5,8%
+Indiana,IN,Harrison County,18061,7,8%
+Indiana,IN,Hendricks County,18063,6,8%
+Indiana,IN,Henry County,18065,9,8%
+Indiana,IN,Howard County,18067,8,8%
+Indiana,IN,Huntington County,18069,8,8%
+Indiana,IN,Jackson County,18071,10,8%
+Indiana,IN,Jasper County,18073,8,8%
+Indiana,IN,Jay County,18075,10,8%
+Indiana,IN,Jefferson County,18077,8,8%
+Indiana,IN,Jennings County,18079,10,8%
+Indiana,IN,Johnson County,18081,6,8%
+Indiana,IN,Knox County,18083,8,8%
+Indiana,IN,Kosciusko County,18085,9,8%
+Indiana,IN,LaGrange County,18087,11,8%
+Indiana,IN,Lake County,18089,9,8%
+Indiana,IN,LaPorte County,18091,9,8%
+Indiana,IN,Lawrence County,18093,10,8%
+Indiana,IN,Madison County,18095,8,8%
+Indiana,IN,Marion County,18097,7,8%
+Indiana,IN,Marshall County,18099,9,8%
+Indiana,IN,Martin County,18101,9,8%
+Indiana,IN,Miami County,18103,9,8%
+Indiana,IN,Monroe County,18105,7,8%
+Indiana,IN,Montgomery County,18107,8,8%
+Indiana,IN,Morgan County,18109,8,8%
+Indiana,IN,Newton County,18111,9,8%
+Indiana,IN,Noble County,18113,9,8%
+Indiana,IN,Ohio County,18115,8,8%
+Indiana,IN,Orange County,18117,10,8%
+Indiana,IN,Owen County,18119,9,8%
+Indiana,IN,Parke County,18121,9,8%
+Indiana,IN,Perry County,18123,10,8%
+Indiana,IN,Pike County,18125,10,8%
+Indiana,IN,Porter County,18127,6,8%
+Indiana,IN,Posey County,18129,7,8%
+Indiana,IN,Pulaski County,18131,9,8%
+Indiana,IN,Putnam County,18133,9,8%
+Indiana,IN,Randolph County,18135,9,8%
+Indiana,IN,Ripley County,18137,9,8%
+Indiana,IN,Rush County,18139,10,8%
+Indiana,IN,St. Joseph County,18141,8,8%
+Indiana,IN,Scott County,18143,10,8%
+Indiana,IN,Shelby County,18145,8,8%
+Indiana,IN,Spencer County,18147,8,8%
+Indiana,IN,Starke County,18149,11,8%
+Indiana,IN,Steuben County,18151,8,8%
+Indiana,IN,Sullivan County,18153,9,8%
+Indiana,IN,Switzerland County,18155,10,8%
+Indiana,IN,Tippecanoe County,18157,8,8%
+Indiana,IN,Tipton County,18159,9,8%
+Indiana,IN,Union County,18161,9,8%
+Indiana,IN,Vanderburgh County,18163,8,8%
+Indiana,IN,Vermillion County,18165,9,8%
+Indiana,IN,Vigo County,18167,8,8%
+Indiana,IN,Wabash County,18169,8,8%
+Indiana,IN,Warren County,18171,8,8%
+Indiana,IN,Warrick County,18173,6,8%
+Indiana,IN,Washington County,18175,9,8%
+Indiana,IN,Wayne County,18177,9,8%
+Indiana,IN,Wells County,18179,7,8%
+Indiana,IN,White County,18181,10,8%
+Indiana,IN,Whitley County,18183,7,8%
+Kansas,KS,Allen County,20001,8,8%
+Kansas,KS,Anderson County,20003,9,8%
+Kansas,KS,Atchison County,20005,8,8%
+Kansas,KS,Barber County,20007,6,8%
+Kansas,KS,Barton County,20009,8,8%
+Kansas,KS,Bourbon County,20011,7,8%
+Kansas,KS,Brown County,20013,8,8%
+Kansas,KS,Butler County,20015,7,8%
+Kansas,KS,Chase County,20017,7,8%
+Kansas,KS,Chautauqua County,20019,9,8%
+Kansas,KS,Cherokee County,20021,9,8%
+Kansas,KS,Cheyenne County,20023,7,8%
+Kansas,KS,Clark County,20025,6,8%
+Kansas,KS,Clay County,20027,7,8%
+Kansas,KS,Cloud County,20029,7,8%
+Kansas,KS,Coffey County,20031,7,8%
+Kansas,KS,Comanche County,20033,6,8%
+Kansas,KS,Cowley County,20035,7,8%
+Kansas,KS,Crawford County,20037,7,8%
+Kansas,KS,Decatur County,20039,8,8%
+Kansas,KS,Dickinson County,20041,7,8%
+Kansas,KS,Doniphan County,20043,8,8%
+Kansas,KS,Douglas County,20045,6,8%
+Kansas,KS,Edwards County,20047,10,8%
+Kansas,KS,Elk County,20049,9,8%
+Kansas,KS,Ellis County,20051,7,8%
+Kansas,KS,Ellsworth County,20053,7,8%
+Kansas,KS,Finney County,20055,24,8%
+Kansas,KS,Ford County,20057,22,8%
+Kansas,KS,Franklin County,20059,7,8%
+Kansas,KS,Geary County,20061,9,8%
+Kansas,KS,Gove County,20063,7,8%
+Kansas,KS,Graham County,20065,7,8%
+Kansas,KS,Grant County,20067,15,8%
+Kansas,KS,Gray County,20069,11,8%
+Kansas,KS,Greeley County,20071,9,8%
+Kansas,KS,Greenwood County,20073,8,8%
+Kansas,KS,Hamilton County,20075,14,8%
+Kansas,KS,Harper County,20077,8,8%
+Kansas,KS,Harvey County,20079,7,8%
+Kansas,KS,Haskell County,20081,12,8%
+Kansas,KS,Hodgeman County,20083,6,8%
+Kansas,KS,Jackson County,20085,8,8%
+Kansas,KS,Jefferson County,20087,7,8%
+Kansas,KS,Jewell County,20089,7,8%
+Kansas,KS,Johnson County,20091,4,8%
+Kansas,KS,Kearny County,20093,14,8%
+Kansas,KS,Kingman County,20095,6,8%
+Kansas,KS,Kiowa County,20097,6,8%
+Kansas,KS,Labette County,20099,7,8%
+Kansas,KS,Lane County,20101,6,8%
+Kansas,KS,Leavenworth County,20103,6,8%
+Kansas,KS,Lincoln County,20105,7,8%
+Kansas,KS,Linn County,20107,7,8%
+Kansas,KS,Logan County,20109,7,8%
+Kansas,KS,Lyon County,20111,11,8%
+Kansas,KS,McPherson County,20113,6,8%
+Kansas,KS,Marion County,20115,7,8%
+Kansas,KS,Marshall County,20117,9,8%
+Kansas,KS,Meade County,20119,9,8%
+Kansas,KS,Miami County,20121,6,8%
+Kansas,KS,Mitchell County,20123,6,8%
+Kansas,KS,Montgomery County,20125,8,8%
+Kansas,KS,Morris County,20127,8,8%
+Kansas,KS,Morton County,20129,11,8%
+Kansas,KS,Nemaha County,20131,9,8%
+Kansas,KS,Neosho County,20133,7,8%
+Kansas,KS,Ness County,20135,7,8%
+Kansas,KS,Norton County,20137,8,8%
+Kansas,KS,Osage County,20139,8,8%
+Kansas,KS,Osborne County,20141,8,8%
+Kansas,KS,Ottawa County,20143,7,8%
+Kansas,KS,Pawnee County,20145,6,8%
+Kansas,KS,Phillips County,20147,7,8%
+Kansas,KS,Pottawatomie County,20149,7,8%
+Kansas,KS,Pratt County,20151,6,8%
+Kansas,KS,Rawlins County,20153,7,8%
+Kansas,KS,Reno County,20155,7,8%
+Kansas,KS,Republic County,20157,7,8%
+Kansas,KS,Rice County,20159,8,8%
+Kansas,KS,Riley County,20161,6,8%
+Kansas,KS,Rooks County,20163,7,8%
+Kansas,KS,Rush County,20165,7,8%
+Kansas,KS,Russell County,20167,7,8%
+Kansas,KS,Saline County,20169,8,8%
+Kansas,KS,Scott County,20171,7,8%
+Kansas,KS,Sedgwick County,20173,7,8%
+Kansas,KS,Seward County,20175,32,8%
+Kansas,KS,Shawnee County,20177,8,8%
+Kansas,KS,Sheridan County,20179,7,8%
+Kansas,KS,Sherman County,20181,8,8%
+Kansas,KS,Smith County,20183,7,8%
+Kansas,KS,Stafford County,20185,8,8%
+Kansas,KS,Stanton County,20187,13,8%
+Kansas,KS,Stevens County,20189,12,8%
+Kansas,KS,Sumner County,20191,7,8%
+Kansas,KS,Thomas County,20193,5,8%
+Kansas,KS,Trego County,20195,7,8%
+Kansas,KS,Wabaunsee County,20197,7,8%
+Kansas,KS,Wallace County,20199,8,8%
+Kansas,KS,Washington County,20201,8,8%
+Kansas,KS,Wichita County,20203,11,8%
+Kansas,KS,Wilson County,20205,8,8%
+Kansas,KS,Woodson County,20207,8,8%
+Kansas,KS,Wyandotte County,20209,15,8%
+Kentucky,KY,Adair County,21001,16,12%
+Kentucky,KY,Allen County,21003,16,12%
+Kentucky,KY,Anderson County,21005,12,12%
+Kentucky,KY,Ballard County,21007,13,12%
+Kentucky,KY,Barren County,21009,15,12%
+Kentucky,KY,Bath County,21011,17,12%
+Kentucky,KY,Bell County,21013,18,12%
+Kentucky,KY,Boone County,21015,9,12%
+Kentucky,KY,Bourbon County,21017,14,12%
+Kentucky,KY,Boyd County,21019,12,12%
+Kentucky,KY,Boyle County,21021,13,12%
+Kentucky,KY,Bracken County,21023,13,12%
+Kentucky,KY,Breathitt County,21025,17,12%
+Kentucky,KY,Breckinridge County,21027,16,12%
+Kentucky,KY,Bullitt County,21029,10,12%
+Kentucky,KY,Butler County,21031,18,12%
+Kentucky,KY,Caldwell County,21033,13,12%
+Kentucky,KY,Calloway County,21035,11,12%
+Kentucky,KY,Campbell County,21037,9,12%
+Kentucky,KY,Carlisle County,21039,13,12%
+Kentucky,KY,Carroll County,21041,15,12%
+Kentucky,KY,Carter County,21043,16,12%
+Kentucky,KY,Casey County,21045,19,12%
+Kentucky,KY,Christian County,21047,14,12%
+Kentucky,KY,Clark County,21049,12,12%
+Kentucky,KY,Clay County,21051,21,12%
+Kentucky,KY,Clinton County,21053,15,12%
+Kentucky,KY,Crittenden County,21055,13,12%
+Kentucky,KY,Cumberland County,21057,16,12%
+Kentucky,KY,Daviess County,21059,9,12%
+Kentucky,KY,Edmonson County,21061,17,12%
+Kentucky,KY,Elliott County,21063,18,12%
+Kentucky,KY,Estill County,21065,20,12%
+Kentucky,KY,Fayette County,21067,7,12%
+Kentucky,KY,Fleming County,21069,15,12%
+Kentucky,KY,Floyd County,21071,15,12%
+Kentucky,KY,Franklin County,21073,11,12%
+Kentucky,KY,Fulton County,21075,18,12%
+Kentucky,KY,Gallatin County,21077,14,12%
+Kentucky,KY,Garrard County,21079,14,12%
+Kentucky,KY,Grant County,21081,13,12%
+Kentucky,KY,Graves County,21083,15,12%
+Kentucky,KY,Grayson County,21085,16,12%
+Kentucky,KY,Green County,21087,16,12%
+Kentucky,KY,Greenup County,21089,12,12%
+Kentucky,KY,Hancock County,21091,14,12%
+Kentucky,KY,Hardin County,21093,9,12%
+Kentucky,KY,Harlan County,21095,18,12%
+Kentucky,KY,Harrison County,21097,15,12%
+Kentucky,KY,Hart County,21099,18,12%
+Kentucky,KY,Henderson County,21101,12,12%
+Kentucky,KY,Henry County,21103,14,12%
+Kentucky,KY,Hickman County,21105,17,12%
+Kentucky,KY,Hopkins County,21107,14,12%
+Kentucky,KY,Jackson County,21109,19,12%
+Kentucky,KY,Jefferson County,21111,8,12%
+Kentucky,KY,Jessamine County,21113,14,12%
+Kentucky,KY,Johnson County,21115,15,12%
+Kentucky,KY,Kenton County,21117,10,12%
+Kentucky,KY,Knott County,21119,16,12%
+Kentucky,KY,Knox County,21121,17,12%
+Kentucky,KY,Larue County,21123,15,12%
+Kentucky,KY,Laurel County,21125,15,12%
+Kentucky,KY,Lawrence County,21127,17,12%
+Kentucky,KY,Lee County,21129,20,12%
+Kentucky,KY,Leslie County,21131,18,12%
+Kentucky,KY,Letcher County,21133,17,12%
+Kentucky,KY,Lewis County,21135,17,12%
+Kentucky,KY,Lincoln County,21137,17,12%
+Kentucky,KY,Livingston County,21139,13,12%
+Kentucky,KY,Logan County,21141,13,12%
+Kentucky,KY,Lyon County,21143,15,12%
+Kentucky,KY,McCracken County,21145,11,12%
+Kentucky,KY,McCreary County,21147,19,12%
+Kentucky,KY,McLean County,21149,14,12%
+Kentucky,KY,Madison County,21151,11,12%
+Kentucky,KY,Magoffin County,21153,18,12%
+Kentucky,KY,Marion County,21155,17,12%
+Kentucky,KY,Marshall County,21157,12,12%
+Kentucky,KY,Martin County,21159,18,12%
+Kentucky,KY,Mason County,21161,14,12%
+Kentucky,KY,Meade County,21163,12,12%
+Kentucky,KY,Menifee County,21165,19,12%
+Kentucky,KY,Mercer County,21167,11,12%
+Kentucky,KY,Metcalfe County,21169,18,12%
+Kentucky,KY,Monroe County,21171,18,12%
+Kentucky,KY,Montgomery County,21173,14,12%
+Kentucky,KY,Morgan County,21175,18,12%
+Kentucky,KY,Muhlenberg County,21177,17,12%
+Kentucky,KY,Nelson County,21179,12,12%
+Kentucky,KY,Nicholas County,21181,16,12%
+Kentucky,KY,Ohio County,21183,16,12%
+Kentucky,KY,Oldham County,21185,6,12%
+Kentucky,KY,Owen County,21187,15,12%
+Kentucky,KY,Owsley County,21189,19,12%
+Kentucky,KY,Pendleton County,21191,14,12%
+Kentucky,KY,Perry County,21193,17,12%
+Kentucky,KY,Pike County,21195,16,12%
+Kentucky,KY,Powell County,21197,18,12%
+Kentucky,KY,Pulaski County,21199,13,12%
+Kentucky,KY,Robertson County,21201,16,12%
+Kentucky,KY,Rockcastle County,21203,18,12%
+Kentucky,KY,Rowan County,21205,13,12%
+Kentucky,KY,Russell County,21207,16,12%
+Kentucky,KY,Scott County,21209,11,12%
+Kentucky,KY,Shelby County,21211,12,12%
+Kentucky,KY,Simpson County,21213,15,12%
+Kentucky,KY,Spencer County,21215,11,12%
+Kentucky,KY,Taylor County,21217,12,12%
+Kentucky,KY,Todd County,21219,14,12%
+Kentucky,KY,Trigg County,21221,14,12%
+Kentucky,KY,Trimble County,21223,13,12%
+Kentucky,KY,Union County,21225,14,12%
+Kentucky,KY,Warren County,21227,13,12%
+Kentucky,KY,Washington County,21229,15,12%
+Kentucky,KY,Wayne County,21231,19,12%
+Kentucky,KY,Webster County,21233,15,12%
+Kentucky,KY,Whitley County,21235,16,12%
+Kentucky,KY,Wolfe County,21237,18,12%
+Kentucky,KY,Woodford County,21239,10,12%
+Louisiana,LA,Acadia Parish,22001,19,16%
+Louisiana,LA,Allen Parish,22003,20,16%
+Louisiana,LA,Ascension Parish,22005,15,16%
+Louisiana,LA,Assumption Parish,22007,22,16%
+Louisiana,LA,Avoyelles Parish,22009,22,16%
+Louisiana,LA,Beauregard Parish,22011,15,16%
+Louisiana,LA,Bienville Parish,22013,22,16%
+Louisiana,LA,Bossier Parish,22015,12,16%
+Louisiana,LA,Caddo Parish,22017,16,16%
+Louisiana,LA,Calcasieu Parish,22019,14,16%
+Louisiana,LA,Caldwell Parish,22021,18,16%
+Louisiana,LA,Cameron Parish,22023,17,16%
+Louisiana,LA,Catahoula Parish,22025,21,16%
+Louisiana,LA,Claiborne Parish,22027,22,16%
+Louisiana,LA,Concordia Parish,22029,21,16%
+Louisiana,LA,De Soto Parish,22031,22,16%
+Louisiana,LA,East Baton Rouge Parish,22033,13,16%
+Louisiana,LA,East Carroll Parish,22035,29,16%
+Louisiana,LA,East Feliciana Parish,22037,21,16%
+Louisiana,LA,Evangeline Parish,22039,22,16%
+Louisiana,LA,Franklin Parish,22041,22,16%
+Louisiana,LA,Grant Parish,22043,16,16%
+Louisiana,LA,Iberia Parish,22045,20,16%
+Louisiana,LA,Iberville Parish,22047,24,16%
+Louisiana,LA,Jackson Parish,22049,17,16%
+Louisiana,LA,Jefferson Parish,22051,13,16%
+Louisiana,LA,Jefferson Davis Parish,22053,18,16%
+Louisiana,LA,Lafayette Parish,22055,13,16%
+Louisiana,LA,Lafourche Parish,22057,17,16%
+Louisiana,LA,La Salle Parish,22059,17,16%
+Louisiana,LA,Lincoln Parish,22061,14,16%
+Louisiana,LA,Livingston Parish,22063,14,16%
+Louisiana,LA,Madison Parish,22065,26,16%
+Louisiana,LA,Morehouse Parish,22067,22,16%
+Louisiana,LA,Natchitoches Parish,22069,18,16%
+Louisiana,LA,Orleans Parish,22071,18,16%
+Louisiana,LA,Ouachita Parish,22073,14,16%
+Louisiana,LA,Plaquemines Parish,22075,15,16%
+Louisiana,LA,Pointe Coupee Parish,22077,21,16%
+Louisiana,LA,Rapides Parish,22079,16,16%
+Louisiana,LA,Red River Parish,22081,23,16%
+Louisiana,LA,Richland Parish,22083,21,16%
+Louisiana,LA,Sabine Parish,22085,18,16%
+Louisiana,LA,St. Bernard Parish,22087,13,16%
+Louisiana,LA,St. Charles Parish,22089,13,16%
+Louisiana,LA,St. Helena Parish,22091,24,16%
+Louisiana,LA,St. James Parish,22093,22,16%
+Louisiana,LA,St. John the Baptist Parish,22095,17,16%
+Louisiana,LA,St. Landry Parish,22097,22,16%
+Louisiana,LA,St. Martin Parish,22099,21,16%
+Louisiana,LA,St. Mary Parish,22101,21,16%
+Louisiana,LA,St. Tammany Parish,22103,8,16%
+Louisiana,LA,Tangipahoa Parish,22105,17,16%
+Louisiana,LA,Tensas Parish,22107,25,16%
+Louisiana,LA,Terrebonne Parish,22109,17,16%
+Louisiana,LA,Union Parish,22111,18,16%
+Louisiana,LA,Vermilion Parish,22113,18,16%
+Louisiana,LA,Vernon Parish,22115,14,16%
+Louisiana,LA,Washington Parish,22117,20,16%
+Louisiana,LA,Webster Parish,22119,18,16%
+Louisiana,LA,West Baton Rouge Parish,22121,19,16%
+Louisiana,LA,West Carroll Parish,22123,19,16%
+Louisiana,LA,West Feliciana Parish,22125,22,16%
+Louisiana,LA,Winn Parish,22127,21,16%
+Massachusetts,MA,Barnstable County,25001,4,10%
+Massachusetts,MA,Berkshire County,25003,8,10%
+Massachusetts,MA,Bristol County,25005,8,10%
+Massachusetts,MA,Dukes County,25007,6,10%
+Massachusetts,MA,Essex County,25009,8,10%
+Massachusetts,MA,Franklin County,25011,5,10%
+Massachusetts,MA,Hampden County,25013,10,10%
+Massachusetts,MA,Hampshire County,25015,6,10%
+Massachusetts,MA,Middlesex County,25017,9,10%
+Massachusetts,MA,Nantucket County,25019,7,10%
+Massachusetts,MA,Norfolk County,25021,5,10%
+Massachusetts,MA,Plymouth County,25023,6,10%
+Massachusetts,MA,Suffolk County,25025,25,10%
+Massachusetts,MA,Worcester County,25027,12,10%
+Maryland,MD,Allegany County,24001,11,11%
+Maryland,MD,Anne Arundel County,24003,6,11%
+Maryland,MD,Baltimore County,24005,7,11%
+Maryland,MD,Calvert County,24009,9,11%
+Maryland,MD,Caroline County,24011,15,11%
+Maryland,MD,Carroll County,24013,6,11%
+Maryland,MD,Cecil County,24015,8,11%
+Maryland,MD,Charles County,24017,9,11%
+Maryland,MD,Dorchester County,24019,16,11%
+Maryland,MD,Frederick County,24021,6,11%
+Maryland,MD,Garrett County,24023,12,11%
+Maryland,MD,Harford County,24025,6,11%
+Maryland,MD,Howard County,24027,6,11%
+Maryland,MD,Kent County,24029,12,11%
+Maryland,MD,Montgomery County,24031,11,11%
+Maryland,MD,Prince George's County,24033,22,11%
+Maryland,MD,Queen Anne's County,24035,7,11%
+Maryland,MD,St. Mary's County,24037,8,11%
+Maryland,MD,Somerset County,24039,19,11%
+Maryland,MD,Talbot County,24041,9,11%
+Maryland,MD,Washington County,24043,9,11%
+Maryland,MD,Wicomico County,24045,10,11%
+Maryland,MD,Worcester County,24047,11,11%
+Maryland,MD,Baltimore city,24510,16,11%
+Maine,ME,Androscoggin County,23001,9,7%
+Maine,ME,Aroostook County,23003,10,7%
+Maine,ME,Cumberland County,23005,6,7%
+Maine,ME,Franklin County,23007,8,7%
+Maine,ME,Hancock County,23009,7,7%
+Maine,ME,Kennebec County,23011,7,7%
+Maine,ME,Knox County,23013,7,7%
+Maine,ME,Lincoln County,23015,6,7%
+Maine,ME,Oxford County,23017,9,7%
+Maine,ME,Penobscot County,23019,8,7%
+Maine,ME,Piscataquis County,23021,9,7%
+Maine,ME,Sagadahoc County,23023,7,7%
+Maine,ME,Somerset County,23025,10,7%
+Maine,ME,Waldo County,23027,8,7%
+Maine,ME,Washington County,23029,10,7%
+Maine,ME,York County,23031,7,7%
+Michigan,MI,Alcona County,26001,9,8%
+Michigan,MI,Alger County,26003,9,8%
+Michigan,MI,Allegan County,26005,8,8%
+Michigan,MI,Alpena County,26007,7,8%
+Michigan,MI,Antrim County,26009,7,8%
+Michigan,MI,Arenac County,26011,10,8%
+Michigan,MI,Baraga County,26013,8,8%
+Michigan,MI,Barry County,26015,7,8%
+Michigan,MI,Bay County,26017,8,8%
+Michigan,MI,Benzie County,26019,7,8%
+Michigan,MI,Berrien County,26021,9,8%
+Michigan,MI,Branch County,26023,9,8%
+Michigan,MI,Calhoun County,26025,8,8%
+Michigan,MI,Cass County,26027,8,8%
+Michigan,MI,Charlevoix County,26029,6,8%
+Michigan,MI,Cheboygan County,26031,8,8%
+Michigan,MI,Chippewa County,26033,8,8%
+Michigan,MI,Clare County,26035,9,8%
+Michigan,MI,Clinton County,26037,6,8%
+Michigan,MI,Crawford County,26039,8,8%
+Michigan,MI,Delta County,26041,7,8%
+Michigan,MI,Dickinson County,26043,8,8%
+Michigan,MI,Eaton County,26045,5,8%
+Michigan,MI,Emmet County,26047,6,8%
+Michigan,MI,Genesee County,26049,10,8%
+Michigan,MI,Gladwin County,26051,9,8%
+Michigan,MI,Gogebic County,26053,8,8%
+Michigan,MI,Grand Traverse County,26055,5,8%
+Michigan,MI,Gratiot County,26057,9,8%
+Michigan,MI,Hillsdale County,26059,8,8%
+Michigan,MI,Houghton County,26061,8,8%
+Michigan,MI,Huron County,26063,9,8%
+Michigan,MI,Ingham County,26065,6,8%
+Michigan,MI,Ionia County,26067,8,8%
+Michigan,MI,Iosco County,26069,9,8%
+Michigan,MI,Iron County,26071,9,8%
+Michigan,MI,Isabella County,26073,7,8%
+Michigan,MI,Jackson County,26075,7,8%
+Michigan,MI,Kalamazoo County,26077,6,8%
+Michigan,MI,Kalkaska County,26079,9,8%
+Michigan,MI,Kent County,26081,8,8%
+Michigan,MI,Keweenaw County,26083,8,8%
+Michigan,MI,Lake County,26085,11,8%
+Michigan,MI,Lapeer County,26087,7,8%
+Michigan,MI,Leelanau County,26089,5,8%
+Michigan,MI,Lenawee County,26091,8,8%
+Michigan,MI,Livingston County,26093,4,8%
+Michigan,MI,Luce County,26095,9,8%
+Michigan,MI,Mackinac County,26097,8,8%
+Michigan,MI,Macomb County,26099,7,8%
+Michigan,MI,Manistee County,26101,8,8%
+Michigan,MI,Marquette County,26103,6,8%
+Michigan,MI,Mason County,26105,7,8%
+Michigan,MI,Mecosta County,26107,8,8%
+Michigan,MI,Menominee County,26109,9,8%
+Michigan,MI,Midland County,26111,6,8%
+Michigan,MI,Missaukee County,26113,9,8%
+Michigan,MI,Monroe County,26115,7,8%
+Michigan,MI,Montcalm County,26117,8,8%
+Michigan,MI,Montmorency County,26119,10,8%
+Michigan,MI,Muskegon County,26121,8,8%
+Michigan,MI,Newaygo County,26123,9,8%
+Michigan,MI,Oakland County,26125,7,8%
+Michigan,MI,Oceana County,26127,10,8%
+Michigan,MI,Ogemaw County,26129,9,8%
+Michigan,MI,Ontonagon County,26131,8,8%
+Michigan,MI,Osceola County,26133,9,8%
+Michigan,MI,Oscoda County,26135,10,8%
+Michigan,MI,Otsego County,26137,7,8%
+Michigan,MI,Ottawa County,26139,7,8%
+Michigan,MI,Presque Isle County,26141,8,8%
+Michigan,MI,Roscommon County,26143,8,8%
+Michigan,MI,Saginaw County,26145,10,8%
+Michigan,MI,St. Clair County,26147,7,8%
+Michigan,MI,St. Joseph County,26149,9,8%
+Michigan,MI,Sanilac County,26151,9,8%
+Michigan,MI,Schoolcraft County,26153,9,8%
+Michigan,MI,Shiawassee County,26155,7,8%
+Michigan,MI,Tuscola County,26157,7,8%
+Michigan,MI,Van Buren County,26159,9,8%
+Michigan,MI,Washtenaw County,26161,6,8%
+Michigan,MI,Wayne County,26163,12,8%
+Michigan,MI,Wexford County,26165,8,8%
+Minnesota,MN,Aitkin County,27001,8,6%
+Minnesota,MN,Anoka County,27003,5,6%
+Minnesota,MN,Becker County,27005,7,6%
+Minnesota,MN,Beltrami County,27007,6,6%
+Minnesota,MN,Benton County,27009,7,6%
+Minnesota,MN,Big Stone County,27011,8,6%
+Minnesota,MN,Blue Earth County,27013,6,6%
+Minnesota,MN,Brown County,27015,7,6%
+Minnesota,MN,Carlton County,27017,7,6%
+Minnesota,MN,Carver County,27019,4,6%
+Minnesota,MN,Cass County,27021,7,6%
+Minnesota,MN,Chippewa County,27023,7,6%
+Minnesota,MN,Chisago County,27025,5,6%
+Minnesota,MN,Clay County,27027,6,6%
+Minnesota,MN,Clearwater County,27029,8,6%
+Minnesota,MN,Cook County,27031,5,6%
+Minnesota,MN,Cottonwood County,27033,8,6%
+Minnesota,MN,Crow Wing County,27035,6,6%
+Minnesota,MN,Dakota County,27037,4,6%
+Minnesota,MN,Dodge County,27039,7,6%
+Minnesota,MN,Douglas County,27041,6,6%
+Minnesota,MN,Faribault County,27043,8,6%
+Minnesota,MN,Fillmore County,27045,7,6%
+Minnesota,MN,Freeborn County,27047,8,6%
+Minnesota,MN,Goodhue County,27049,6,6%
+Minnesota,MN,Grant County,27051,7,6%
+Minnesota,MN,Hennepin County,27053,5,6%
+Minnesota,MN,Houston County,27055,6,6%
+Minnesota,MN,Hubbard County,27057,6,6%
+Minnesota,MN,Isanti County,27059,6,6%
+Minnesota,MN,Itasca County,27061,6,6%
+Minnesota,MN,Jackson County,27063,7,6%
+Minnesota,MN,Kanabec County,27065,8,6%
+Minnesota,MN,Kandiyohi County,27067,7,6%
+Minnesota,MN,Kittson County,27069,7,6%
+Minnesota,MN,Koochiching County,27071,8,6%
+Minnesota,MN,Lac qui Parle County,27073,7,6%
+Minnesota,MN,Lake County,27075,6,6%
+Minnesota,MN,Lake of the Woods County,27077,7,6%
+Minnesota,MN,Le Sueur County,27079,7,6%
+Minnesota,MN,Lincoln County,27081,8,6%
+Minnesota,MN,Lyon County,27083,8,6%
+Minnesota,MN,McLeod County,27085,7,6%
+Minnesota,MN,Mahnomen County,27087,8,6%
+Minnesota,MN,Marshall County,27089,8,6%
+Minnesota,MN,Martin County,27091,7,6%
+Minnesota,MN,Meeker County,27093,7,6%
+Minnesota,MN,Mille Lacs County,27095,8,6%
+Minnesota,MN,Morrison County,27097,8,6%
+Minnesota,MN,Mower County,27099,8,6%
+Minnesota,MN,Murray County,27101,8,6%
+Minnesota,MN,Nicollet County,27103,5,6%
+Minnesota,MN,Nobles County,27105,12,6%
+Minnesota,MN,Norman County,27107,8,6%
+Minnesota,MN,Olmsted County,27109,6,6%
+Minnesota,MN,Otter Tail County,27111,7,6%
+Minnesota,MN,Pennington County,27113,7,6%
+Minnesota,MN,Pine County,27115,8,6%
+Minnesota,MN,Pipestone County,27117,8,6%
+Minnesota,MN,Polk County,27119,7,6%
+Minnesota,MN,Pope County,27121,7,6%
+Minnesota,MN,Ramsey County,27123,7,6%
+Minnesota,MN,Red Lake County,27125,8,6%
+Minnesota,MN,Redwood County,27127,7,6%
+Minnesota,MN,Renville County,27129,8,6%
+Minnesota,MN,Rice County,27131,7,6%
+Minnesota,MN,Rock County,27133,7,6%
+Minnesota,MN,Roseau County,27135,7,6%
+Minnesota,MN,St. Louis County,27137,6,6%
+Minnesota,MN,Scott County,27139,5,6%
+Minnesota,MN,Sherburne County,27141,5,6%
+Minnesota,MN,Sibley County,27143,9,6%
+Minnesota,MN,Stearns County,27145,6,6%
+Minnesota,MN,Steele County,27147,6,6%
+Minnesota,MN,Stevens County,27149,7,6%
+Minnesota,MN,Swift County,27151,7,6%
+Minnesota,MN,Todd County,27153,9,6%
+Minnesota,MN,Traverse County,27155,8,6%
+Minnesota,MN,Wabasha County,27157,7,6%
+Minnesota,MN,Wadena County,27159,8,6%
+Minnesota,MN,Waseca County,27161,7,6%
+Minnesota,MN,Washington County,27163,4,6%
+Minnesota,MN,Watonwan County,27165,12,6%
+Minnesota,MN,Wilkin County,27167,6,6%
+Minnesota,MN,Winona County,27169,6,6%
+Minnesota,MN,Wright County,27171,5,6%
+Minnesota,MN,Yellow Medicine County,27173,7,6%
+Missouri,MO,Adair County,29001,7,7%
+Missouri,MO,Andrew County,29003,7,7%
+Missouri,MO,Atchison County,29005,8,7%
+Missouri,MO,Audrain County,29007,10,7%
+Missouri,MO,Barry County,29009,11,7%
+Missouri,MO,Barton County,29011,9,7%
+Missouri,MO,Bates County,29013,9,7%
+Missouri,MO,Benton County,29015,9,7%
+Missouri,MO,Bollinger County,29017,11,7%
+Missouri,MO,Boone County,29019,6,7%
+Missouri,MO,Buchanan County,29021,6,7%
+Missouri,MO,Butler County,29023,10,7%
+Missouri,MO,Caldwell County,29025,8,7%
+Missouri,MO,Callaway County,29027,8,7%
+Missouri,MO,Camden County,29029,7,7%
+Missouri,MO,Cape Girardeau County,29031,6,7%
+Missouri,MO,Carroll County,29033,11,7%
+Missouri,MO,Carter County,29035,10,7%
+Missouri,MO,Cass County,29037,7,7%
+Missouri,MO,Cedar County,29039,10,7%
+Missouri,MO,Chariton County,29041,10,7%
+Missouri,MO,Christian County,29043,6,7%
+Missouri,MO,Clark County,29045,9,7%
+Missouri,MO,Clay County,29047,5,7%
+Missouri,MO,Clinton County,29049,6,7%
+Missouri,MO,Cole County,29051,7,7%
+Missouri,MO,Cooper County,29053,9,7%
+Missouri,MO,Crawford County,29055,10,7%
+Missouri,MO,Dade County,29057,9,7%
+Missouri,MO,Dallas County,29059,10,7%
+Missouri,MO,Daviess County,29061,9,7%
+Missouri,MO,DeKalb County,29063,10,7%
+Missouri,MO,Dent County,29065,10,7%
+Missouri,MO,Douglas County,29067,10,7%
+Missouri,MO,Dunklin County,29069,13,7%
+Missouri,MO,Franklin County,29071,6,7%
+Missouri,MO,Gasconade County,29073,9,7%
+Missouri,MO,Gentry County,29075,9,7%
+Missouri,MO,Greene County,29077,5,7%
+Missouri,MO,Grundy County,29079,9,7%
+Missouri,MO,Harrison County,29081,10,7%
+Missouri,MO,Henry County,29083,9,7%
+Missouri,MO,Hickory County,29085,10,7%
+Missouri,MO,Holt County,29087,9,7%
+Missouri,MO,Howard County,29089,9,7%
+Missouri,MO,Howell County,29091,8,7%
+Missouri,MO,Iron County,29093,8,7%
+Missouri,MO,Jackson County,29095,8,7%
+Missouri,MO,Jasper County,29097,8,7%
+Missouri,MO,Jefferson County,29099,6,7%
+Missouri,MO,Johnson County,29101,7,7%
+Missouri,MO,Knox County,29103,9,7%
+Missouri,MO,Laclede County,29105,10,7%
+Missouri,MO,Lafayette County,29107,7,7%
+Missouri,MO,Lawrence County,29109,10,7%
+Missouri,MO,Lewis County,29111,9,7%
+Missouri,MO,Lincoln County,29113,8,7%
+Missouri,MO,Linn County,29115,10,7%
+Missouri,MO,Livingston County,29117,9,7%
+Missouri,MO,McDonald County,29119,11,7%
+Missouri,MO,Macon County,29121,9,7%
+Missouri,MO,Madison County,29123,10,7%
+Missouri,MO,Maries County,29125,9,7%
+Missouri,MO,Marion County,29127,9,7%
+Missouri,MO,Mercer County,29129,9,7%
+Missouri,MO,Miller County,29131,9,7%
+Missouri,MO,Mississippi County,29133,15,7%
+Missouri,MO,Moniteau County,29135,10,7%
+Missouri,MO,Monroe County,29137,10,7%
+Missouri,MO,Montgomery County,29139,10,7%
+Missouri,MO,Morgan County,29141,9,7%
+Missouri,MO,New Madrid County,29143,13,7%
+Missouri,MO,Newton County,29145,7,7%
+Missouri,MO,Nodaway County,29147,8,7%
+Missouri,MO,Oregon County,29149,11,7%
+Missouri,MO,Osage County,29151,9,7%
+Missouri,MO,Ozark County,29153,10,7%
+Missouri,MO,Pemiscot County,29155,16,7%
+Missouri,MO,Perry County,29157,10,7%
+Missouri,MO,Pettis County,29159,8,7%
+Missouri,MO,Phelps County,29161,8,7%
+Missouri,MO,Pike County,29163,11,7%
+Missouri,MO,Platte County,29165,4,7%
+Missouri,MO,Polk County,29167,9,7%
+Missouri,MO,Pulaski County,29169,8,7%
+Missouri,MO,Putnam County,29171,9,7%
+Missouri,MO,Ralls County,29173,9,7%
+Missouri,MO,Randolph County,29175,9,7%
+Missouri,MO,Ray County,29177,8,7%
+Missouri,MO,Reynolds County,29179,11,7%
+Missouri,MO,Ripley County,29181,11,7%
+Missouri,MO,St. Charles County,29183,4,7%
+Missouri,MO,St. Clair County,29185,11,7%
+Missouri,MO,Ste. Genevieve County,29186,9,7%
+Missouri,MO,St. Francois County,29187,7,7%
+Missouri,MO,St. Louis County,29189,6,7%
+Missouri,MO,Saline County,29195,10,7%
+Missouri,MO,Schuyler County,29197,9,7%
+Missouri,MO,Scotland County,29199,10,7%
+Missouri,MO,Scott County,29201,11,7%
+Missouri,MO,Shannon County,29203,12,7%
+Missouri,MO,Shelby County,29205,9,7%
+Missouri,MO,Stoddard County,29207,11,7%
+Missouri,MO,Stone County,29209,8,7%
+Missouri,MO,Sullivan County,29211,14,7%
+Missouri,MO,Taney County,29213,8,7%
+Missouri,MO,Texas County,29215,10,7%
+Missouri,MO,Vernon County,29217,9,7%
+Missouri,MO,Warren County,29219,7,7%
+Missouri,MO,Washington County,29221,10,7%
+Missouri,MO,Wayne County,29223,11,7%
+Missouri,MO,Webster County,29225,9,7%
+Missouri,MO,Worth County,29227,9,7%
+Missouri,MO,Wright County,29229,11,7%
+Missouri,MO,St. Louis city,29510,13,7%
+Mississippi,MS,Adams County,28001,19,16%
+Mississippi,MS,Alcorn County,28003,15,16%
+Mississippi,MS,Amite County,28005,20,16%
+Mississippi,MS,Attala County,28007,20,16%
+Mississippi,MS,Benton County,28009,22,16%
+Mississippi,MS,Bolivar County,28011,22,16%
+Mississippi,MS,Calhoun County,28013,20,16%
+Mississippi,MS,Carroll County,28015,19,16%
+Mississippi,MS,Chickasaw County,28017,22,16%
+Mississippi,MS,Choctaw County,28019,18,16%
+Mississippi,MS,Claiborne County,28021,23,16%
+Mississippi,MS,Clarke County,28023,19,16%
+Mississippi,MS,Clay County,28025,21,16%
+Mississippi,MS,Coahoma County,28027,23,16%
+Mississippi,MS,Copiah County,28029,20,16%
+Mississippi,MS,Covington County,28031,18,16%
+Mississippi,MS,DeSoto County,28033,10,16%
+Mississippi,MS,Forrest County,28035,14,16%
+Mississippi,MS,Franklin County,28037,19,16%
+Mississippi,MS,George County,28039,16,16%
+Mississippi,MS,Greene County,28041,18,16%
+Mississippi,MS,Grenada County,28043,19,16%
+Mississippi,MS,Hancock County,28045,11,16%
+Mississippi,MS,Harrison County,28047,12,16%
+Mississippi,MS,Hinds County,28049,14,16%
+Mississippi,MS,Holmes County,28051,29,16%
+Mississippi,MS,Humphreys County,28053,28,16%
+Mississippi,MS,Issaquena County,28055,27,16%
+Mississippi,MS,Itawamba County,28057,14,16%
+Mississippi,MS,Jackson County,28059,12,16%
+Mississippi,MS,Jasper County,28061,22,16%
+Mississippi,MS,Jefferson County,28063,30,16%
+Mississippi,MS,Jefferson Davis County,28065,24,16%
+Mississippi,MS,Jones County,28067,16,16%
+Mississippi,MS,Kemper County,28069,24,16%
+Mississippi,MS,Lafayette County,28071,12,16%
+Mississippi,MS,Lamar County,28073,9,16%
+Mississippi,MS,Lauderdale County,28075,15,16%
+Mississippi,MS,Lawrence County,28077,17,16%
+Mississippi,MS,Leake County,28079,20,16%
+Mississippi,MS,Lee County,28081,13,16%
+Mississippi,MS,Leflore County,28083,25,16%
+Mississippi,MS,Lincoln County,28085,15,16%
+Mississippi,MS,Lowndes County,28087,16,16%
+Mississippi,MS,Madison County,28089,10,16%
+Mississippi,MS,Marion County,28091,19,16%
+Mississippi,MS,Marshall County,28093,21,16%
+Mississippi,MS,Monroe County,28095,18,16%
+Mississippi,MS,Montgomery County,28097,22,16%
+Mississippi,MS,Neshoba County,28099,16,16%
+Mississippi,MS,Newton County,28101,16,16%
+Mississippi,MS,Noxubee County,28103,28,16%
+Mississippi,MS,Oktibbeha County,28105,14,16%
+Mississippi,MS,Panola County,28107,21,16%
+Mississippi,MS,Pearl River County,28109,13,16%
+Mississippi,MS,Perry County,28111,17,16%
+Mississippi,MS,Pike County,28113,19,16%
+Mississippi,MS,Pontotoc County,28115,16,16%
+Mississippi,MS,Prentiss County,28117,15,16%
+Mississippi,MS,Quitman County,28119,27,16%
+Mississippi,MS,Rankin County,28121,10,16%
+Mississippi,MS,Scott County,28123,24,16%
+Mississippi,MS,Sharkey County,28125,26,16%
+Mississippi,MS,Simpson County,28127,19,16%
+Mississippi,MS,Smith County,28129,17,16%
+Mississippi,MS,Stone County,28131,13,16%
+Mississippi,MS,Sunflower County,28133,26,16%
+Mississippi,MS,Tallahatchie County,28135,25,16%
+Mississippi,MS,Tate County,28137,14,16%
+Mississippi,MS,Tippah County,28139,18,16%
+Mississippi,MS,Tishomingo County,28141,16,16%
+Mississippi,MS,Tunica County,28143,26,16%
+Mississippi,MS,Union County,28145,15,16%
+Mississippi,MS,Walthall County,28147,21,16%
+Mississippi,MS,Warren County,28149,14,16%
+Mississippi,MS,Washington County,28151,23,16%
+Mississippi,MS,Wayne County,28153,21,16%
+Mississippi,MS,Webster County,28155,16,16%
+Mississippi,MS,Wilkinson County,28157,29,16%
+Mississippi,MS,Winston County,28159,20,16%
+Mississippi,MS,Yalobusha County,28161,20,16%
+Mississippi,MS,Yazoo County,28163,25,16%
+Montana,MT,Beaverhead County,30001,8,9%
+Montana,MT,Big Horn County,30003,12,9%
+Montana,MT,Blaine County,30005,10,9%
+Montana,MT,Broadwater County,30007,10,9%
+Montana,MT,Carbon County,30009,9,9%
+Montana,MT,Carter County,30011,10,9%
+Montana,MT,Cascade County,30013,9,9%
+Montana,MT,Chouteau County,30015,9,9%
+Montana,MT,Custer County,30017,9,9%
+Montana,MT,Daniels County,30019,10,9%
+Montana,MT,Dawson County,30021,9,9%
+Montana,MT,Deer Lodge County,30023,11,9%
+Montana,MT,Fallon County,30025,11,9%
+Montana,MT,Fergus County,30027,10,9%
+Montana,MT,Flathead County,30029,8,9%
+Montana,MT,Gallatin County,30031,6,9%
+Montana,MT,Garfield County,30033,11,9%
+Montana,MT,Glacier County,30035,10,9%
+Montana,MT,Golden Valley County,30037,12,9%
+Montana,MT,Granite County,30039,9,9%
+Montana,MT,Hill County,30041,9,9%
+Montana,MT,Jefferson County,30043,8,9%
+Montana,MT,Judith Basin County,30045,8,9%
+Montana,MT,Lake County,30047,10,9%
+Montana,MT,Lewis and Clark County,30049,7,9%
+Montana,MT,Liberty County,30051,9,9%
+Montana,MT,Lincoln County,30053,12,9%
+Montana,MT,McCone County,30055,10,9%
+Montana,MT,Madison County,30057,8,9%
+Montana,MT,Meagher County,30059,11,9%
+Montana,MT,Mineral County,30061,12,9%
+Montana,MT,Missoula County,30063,8,9%
+Montana,MT,Musselshell County,30065,11,9%
+Montana,MT,Park County,30067,9,9%
+Montana,MT,Petroleum County,30069,11,9%
+Montana,MT,Phillips County,30071,10,9%
+Montana,MT,Pondera County,30073,10,9%
+Montana,MT,Powder River County,30075,9,9%
+Montana,MT,Powell County,30077,11,9%
+Montana,MT,Prairie County,30079,10,9%
+Montana,MT,Ravalli County,30081,9,9%
+Montana,MT,Richland County,30083,10,9%
+Montana,MT,Roosevelt County,30085,11,9%
+Montana,MT,Rosebud County,30087,10,9%
+Montana,MT,Sanders County,30089,12,9%
+Montana,MT,Sheridan County,30091,10,9%
+Montana,MT,Silver Bow County,30093,10,9%
+Montana,MT,Stillwater County,30095,10,9%
+Montana,MT,Sweet Grass County,30097,9,9%
+Montana,MT,Teton County,30099,9,9%
+Montana,MT,Toole County,30101,11,9%
+Montana,MT,Treasure County,30103,11,9%
+Montana,MT,Valley County,30105,11,9%
+Montana,MT,Wheatland County,30107,13,9%
+Montana,MT,Wibaux County,30109,12,9%
+Montana,MT,Yellowstone County,30111,8,9%
+North Carolina,NC,Alamance County,37001,13,14%
+North Carolina,NC,Alexander County,37003,14,14%
+North Carolina,NC,Alleghany County,37005,15,14%
+North Carolina,NC,Anson County,37007,19,14%
+North Carolina,NC,Ashe County,37009,14,14%
+North Carolina,NC,Avery County,37011,13,14%
+North Carolina,NC,Beaufort County,37013,16,14%
+North Carolina,NC,Bertie County,37015,26,14%
+North Carolina,NC,Bladen County,37017,19,14%
+North Carolina,NC,Brunswick County,37019,12,14%
+North Carolina,NC,Buncombe County,37021,10,14%
+North Carolina,NC,Burke County,37023,14,14%
+North Carolina,NC,Cabarrus County,37025,11,14%
+North Carolina,NC,Caldwell County,37027,12,14%
+North Carolina,NC,Camden County,37029,11,14%
+North Carolina,NC,Carteret County,37031,10,14%
+North Carolina,NC,Caswell County,37033,19,14%
+North Carolina,NC,Catawba County,37035,14,14%
+North Carolina,NC,Chatham County,37037,15,14%
+North Carolina,NC,Cherokee County,37039,12,14%
+North Carolina,NC,Chowan County,37041,17,14%
+North Carolina,NC,Clay County,37043,11,14%
+North Carolina,NC,Cleveland County,37045,15,14%
+North Carolina,NC,Columbus County,37047,18,14%
+North Carolina,NC,Craven County,37049,12,14%
+North Carolina,NC,Cumberland County,37051,13,14%
+North Carolina,NC,Currituck County,37053,10,14%
+North Carolina,NC,Dare County,37055,8,14%
+North Carolina,NC,Davidson County,37057,14,14%
+North Carolina,NC,Davie County,37059,12,14%
+North Carolina,NC,Duplin County,37061,27,14%
+North Carolina,NC,Durham County,37063,13,14%
+North Carolina,NC,Edgecombe County,37065,25,14%
+North Carolina,NC,Forsyth County,37067,13,14%
+North Carolina,NC,Franklin County,37069,17,14%
+North Carolina,NC,Gaston County,37071,12,14%
+North Carolina,NC,Gates County,37073,18,14%
+North Carolina,NC,Graham County,37075,14,14%
+North Carolina,NC,Granville County,37077,18,14%
+North Carolina,NC,Greene County,37079,24,14%
+North Carolina,NC,Guilford County,37081,11,14%
+North Carolina,NC,Halifax County,37083,28,14%
+North Carolina,NC,Harnett County,37085,16,14%
+North Carolina,NC,Haywood County,37087,10,14%
+North Carolina,NC,Henderson County,37089,10,14%
+North Carolina,NC,Hertford County,37091,22,14%
+North Carolina,NC,Hoke County,37093,19,14%
+North Carolina,NC,Hyde County,37095,19,14%
+North Carolina,NC,Iredell County,37097,12,14%
+North Carolina,NC,Jackson County,37099,9,14%
+North Carolina,NC,Johnston County,37101,15,14%
+North Carolina,NC,Jones County,37103,18,14%
+North Carolina,NC,Lee County,37105,18,14%
+North Carolina,NC,Lenoir County,37107,18,14%
+North Carolina,NC,Lincoln County,37109,14,14%
+North Carolina,NC,McDowell County,37111,14,14%
+North Carolina,NC,Macon County,37113,11,14%
+North Carolina,NC,Madison County,37115,13,14%
+North Carolina,NC,Martin County,37117,20,14%
+North Carolina,NC,Mecklenburg County,37119,11,14%
+North Carolina,NC,Mitchell County,37121,13,14%
+North Carolina,NC,Montgomery County,37123,23,14%
+North Carolina,NC,Moore County,37125,10,14%
+North Carolina,NC,Nash County,37127,16,14%
+North Carolina,NC,New Hanover County,37129,9,14%
+North Carolina,NC,Northampton County,37131,24,14%
+North Carolina,NC,Onslow County,37133,12,14%
+North Carolina,NC,Orange County,37135,9,14%
+North Carolina,NC,Pamlico County,37137,14,14%
+North Carolina,NC,Pasquotank County,37139,15,14%
+North Carolina,NC,Pender County,37141,15,14%
+North Carolina,NC,Perquimans County,37143,15,14%
+North Carolina,NC,Person County,37145,16,14%
+North Carolina,NC,Pitt County,37147,14,14%
+North Carolina,NC,Polk County,37149,10,14%
+North Carolina,NC,Randolph County,37151,16,14%
+North Carolina,NC,Richmond County,37153,19,14%
+North Carolina,NC,Robeson County,37155,20,14%
+North Carolina,NC,Rockingham County,37157,16,14%
+North Carolina,NC,Rowan County,37159,15,14%
+North Carolina,NC,Rutherford County,37161,14,14%
+North Carolina,NC,Sampson County,37163,23,14%
+North Carolina,NC,Scotland County,37165,16,14%
+North Carolina,NC,Stanly County,37167,14,14%
+North Carolina,NC,Stokes County,37169,14,14%
+North Carolina,NC,Surry County,37171,15,14%
+North Carolina,NC,Swain County,37173,12,14%
+North Carolina,NC,Transylvania County,37175,9,14%
+North Carolina,NC,Tyrrell County,37177,22,14%
+North Carolina,NC,Union County,37179,11,14%
+North Carolina,NC,Vance County,37181,22,14%
+North Carolina,NC,Wake County,37183,11,14%
+North Carolina,NC,Warren County,37185,22,14%
+North Carolina,NC,Washington County,37187,22,14%
+North Carolina,NC,Watauga County,37189,9,14%
+North Carolina,NC,Wayne County,37191,16,14%
+North Carolina,NC,Wilkes County,37193,15,14%
+North Carolina,NC,Wilson County,37195,21,14%
+North Carolina,NC,Yadkin County,37197,15,14%
+North Carolina,NC,Yancey County,37199,14,14%
+North Dakota,ND,Adams County,38001,7,6%
+North Dakota,ND,Barnes County,38003,7,6%
+North Dakota,ND,Benson County,38005,8,6%
+North Dakota,ND,Billings County,38007,8,6%
+North Dakota,ND,Bottineau County,38009,7,6%
+North Dakota,ND,Bowman County,38011,7,6%
+North Dakota,ND,Burke County,38013,8,6%
+North Dakota,ND,Burleigh County,38015,5,6%
+North Dakota,ND,Cass County,38017,5,6%
+North Dakota,ND,Cavalier County,38019,7,6%
+North Dakota,ND,Dickey County,38021,7,6%
+North Dakota,ND,Divide County,38023,8,6%
+North Dakota,ND,Dunn County,38025,8,6%
+North Dakota,ND,Eddy County,38027,7,6%
+North Dakota,ND,Emmons County,38029,10,6%
+North Dakota,ND,Foster County,38031,7,6%
+North Dakota,ND,Golden Valley County,38033,6,6%
+North Dakota,ND,Grand Forks County,38035,6,6%
+North Dakota,ND,Grant County,38037,9,6%
+North Dakota,ND,Griggs County,38039,7,6%
+North Dakota,ND,Hettinger County,38041,8,6%
+North Dakota,ND,Kidder County,38043,9,6%
+North Dakota,ND,LaMoure County,38045,8,6%
+North Dakota,ND,Logan County,38047,9,6%
+North Dakota,ND,McHenry County,38049,8,6%
+North Dakota,ND,McIntosh County,38051,10,6%
+North Dakota,ND,McKenzie County,38053,8,6%
+North Dakota,ND,McLean County,38055,7,6%
+North Dakota,ND,Mercer County,38057,7,6%
+North Dakota,ND,Morton County,38059,7,6%
+North Dakota,ND,Mountrail County,38061,8,6%
+North Dakota,ND,Nelson County,38063,7,6%
+North Dakota,ND,Oliver County,38065,7,6%
+North Dakota,ND,Pembina County,38067,7,6%
+North Dakota,ND,Pierce County,38069,8,6%
+North Dakota,ND,Ramsey County,38071,6,6%
+North Dakota,ND,Ransom County,38073,7,6%
+North Dakota,ND,Renville County,38075,7,6%
+North Dakota,ND,Richland County,38077,6,6%
+North Dakota,ND,Rolette County,38079,8,6%
+North Dakota,ND,Sargent County,38081,7,6%
+North Dakota,ND,Sheridan County,38083,9,6%
+North Dakota,ND,Sioux County,38085,9,6%
+North Dakota,ND,Slope County,38087,8,6%
+North Dakota,ND,Stark County,38089,7,6%
+North Dakota,ND,Steele County,38091,5,6%
+North Dakota,ND,Stutsman County,38093,7,6%
+North Dakota,ND,Towner County,38095,7,6%
+North Dakota,ND,Traill County,38097,6,6%
+North Dakota,ND,Walsh County,38099,8,6%
+North Dakota,ND,Ward County,38101,6,6%
+North Dakota,ND,Wells County,38103,8,6%
+North Dakota,ND,Williams County,38105,7,6%
+Nebraska,NE,Adams County,31001,7,7%
+Nebraska,NE,Antelope County,31003,8,7%
+Nebraska,NE,Arthur County,31005,6,7%
+Nebraska,NE,Banner County,31007,5,7%
+Nebraska,NE,Blaine County,31009,6,7%
+Nebraska,NE,Boone County,31011,8,7%
+Nebraska,NE,Box Butte County,31013,8,7%
+Nebraska,NE,Boyd County,31015,8,7%
+Nebraska,NE,Brown County,31017,7,7%
+Nebraska,NE,Buffalo County,31019,6,7%
+Nebraska,NE,Burt County,31021,8,7%
+Nebraska,NE,Butler County,31023,8,7%
+Nebraska,NE,Cass County,31025,6,7%
+Nebraska,NE,Cedar County,31027,7,7%
+Nebraska,NE,Chase County,31029,7,7%
+Nebraska,NE,Cherry County,31031,6,7%
+Nebraska,NE,Cheyenne County,31033,7,7%
+Nebraska,NE,Clay County,31035,7,7%
+Nebraska,NE,Colfax County,31037,21,7%
+Nebraska,NE,Cuming County,31039,10,7%
+Nebraska,NE,Custer County,31041,7,7%
+Nebraska,NE,Dakota County,31043,17,7%
+Nebraska,NE,Dawes County,31045,6,7%
+Nebraska,NE,Dawson County,31047,18,7%
+Nebraska,NE,Deuel County,31049,7,7%
+Nebraska,NE,Dixon County,31051,9,7%
+Nebraska,NE,Dodge County,31053,9,7%
+Nebraska,NE,Douglas County,31055,7,7%
+Nebraska,NE,Dundy County,31057,7,7%
+Nebraska,NE,Fillmore County,31059,7,7%
+Nebraska,NE,Franklin County,31061,7,7%
+Nebraska,NE,Frontier County,31063,6,7%
+Nebraska,NE,Furnas County,31065,8,7%
+Nebraska,NE,Gage County,31067,8,7%
+Nebraska,NE,Garden County,31069,8,7%
+Nebraska,NE,Garfield County,31071,8,7%
+Nebraska,NE,Gosper County,31073,7,7%
+Nebraska,NE,Grant County,31075,6,7%
+Nebraska,NE,Greeley County,31077,8,7%
+Nebraska,NE,Hall County,31079,11,7%
+Nebraska,NE,Hamilton County,31081,6,7%
+Nebraska,NE,Harlan County,31083,7,7%
+Nebraska,NE,Hayes County,31085,8,7%
+Nebraska,NE,Hitchcock County,31087,8,7%
+Nebraska,NE,Holt County,31089,8,7%
+Nebraska,NE,Hooker County,31091,7,7%
+Nebraska,NE,Howard County,31093,8,7%
+Nebraska,NE,Jefferson County,31095,8,7%
+Nebraska,NE,Johnson County,31097,10,7%
+Nebraska,NE,Kearney County,31099,6,7%
+Nebraska,NE,Keith County,31101,7,7%
+Nebraska,NE,Keya Paha County,31103,9,7%
+Nebraska,NE,Kimball County,31105,7,7%
+Nebraska,NE,Knox County,31107,8,7%
+Nebraska,NE,Lancaster County,31109,6,7%
+Nebraska,NE,Lincoln County,31111,7,7%
+Nebraska,NE,Logan County,31113,6,7%
+Nebraska,NE,Loup County,31115,8,7%
+Nebraska,NE,McPherson County,31117,7,7%
+Nebraska,NE,Madison County,31119,9,7%
+Nebraska,NE,Merrick County,31121,8,7%
+Nebraska,NE,Morrill County,31123,9,7%
+Nebraska,NE,Nance County,31125,8,7%
+Nebraska,NE,Nemaha County,31127,6,7%
+Nebraska,NE,Nuckolls County,31129,8,7%
+Nebraska,NE,Otoe County,31131,7,7%
+Nebraska,NE,Pawnee County,31133,8,7%
+Nebraska,NE,Perkins County,31135,7,7%
+Nebraska,NE,Phelps County,31137,6,7%
+Nebraska,NE,Pierce County,31139,8,7%
+Nebraska,NE,Platte County,31141,8,7%
+Nebraska,NE,Polk County,31143,7,7%
+Nebraska,NE,Red Willow County,31145,7,7%
+Nebraska,NE,Richardson County,31147,8,7%
+Nebraska,NE,Rock County,31149,8,7%
+Nebraska,NE,Saline County,31151,10,7%
+Nebraska,NE,Sarpy County,31153,4,7%
+Nebraska,NE,Saunders County,31155,7,7%
+Nebraska,NE,Scotts Bluff County,31157,9,7%
+Nebraska,NE,Seward County,31159,6,7%
+Nebraska,NE,Sheridan County,31161,7,7%
+Nebraska,NE,Sherman County,31163,8,7%
+Nebraska,NE,Sioux County,31165,6,7%
+Nebraska,NE,Stanton County,31167,7,7%
+Nebraska,NE,Thayer County,31169,8,7%
+Nebraska,NE,Thomas County,31171,7,7%
+Nebraska,NE,Thurston County,31173,9,7%
+Nebraska,NE,Valley County,31175,8,7%
+Nebraska,NE,Washington County,31177,6,7%
+Nebraska,NE,Wayne County,31179,6,7%
+Nebraska,NE,Webster County,31181,8,7%
+Nebraska,NE,Wheeler County,31183,6,7%
+Nebraska,NE,York County,31185,7,7%
+New Hampshire,NH,Belknap County,33001,6,6%
+New Hampshire,NH,Carroll County,33003,6,6%
+New Hampshire,NH,Cheshire County,33005,6,6%
+New Hampshire,NH,Coos County,33007,9,6%
+New Hampshire,NH,Grafton County,33009,6,6%
+New Hampshire,NH,Hillsborough County,33011,6,6%
+New Hampshire,NH,Merrimack County,33013,6,6%
+New Hampshire,NH,Rockingham County,33015,5,6%
+New Hampshire,NH,Strafford County,33017,6,6%
+New Hampshire,NH,Sullivan County,33019,7,6%
+New Jersey,NJ,Atlantic County,34001,18,17%
+New Jersey,NJ,Bergen County,34003,16,17%
+New Jersey,NJ,Burlington County,34005,9,17%
+New Jersey,NJ,Camden County,34007,13,17%
+New Jersey,NJ,Cape May County,34009,11,17%
+New Jersey,NJ,Cumberland County,34011,21,17%
+New Jersey,NJ,Essex County,34013,28,17%
+New Jersey,NJ,Gloucester County,34015,10,17%
+New Jersey,NJ,Hudson County,34017,37,17%
+New Jersey,NJ,Hunterdon County,34019,6,17%
+New Jersey,NJ,Mercer County,34021,14,17%
+New Jersey,NJ,Middlesex County,34023,17,17%
+New Jersey,NJ,Monmouth County,34025,9,17%
+New Jersey,NJ,Morris County,34027,10,17%
+New Jersey,NJ,Ocean County,34029,10,17%
+New Jersey,NJ,Passaic County,34031,26,17%
+New Jersey,NJ,Salem County,34033,12,17%
+New Jersey,NJ,Somerset County,34035,10,17%
+New Jersey,NJ,Sussex County,34037,8,17%
+New Jersey,NJ,Union County,34039,21,17%
+New Jersey,NJ,Warren County,34041,10,17%
+New Mexico,NM,Bernalillo County,35001,14,16%
+New Mexico,NM,Catron County,35003,12,16%
+New Mexico,NM,Chaves County,35005,20,16%
+New Mexico,NM,Cibola County,35006,17,16%
+New Mexico,NM,Colfax County,35007,16,16%
+New Mexico,NM,Curry County,35009,15,16%
+New Mexico,NM,De Baca County,35011,16,16%
+New Mexico,NM,Dona Ana County,35013,26,16%
+New Mexico,NM,Eddy County,35015,17,16%
+New Mexico,NM,Grant County,35017,15,16%
+New Mexico,NM,Guadalupe County,35019,30,16%
+New Mexico,NM,Harding County,35021,18,16%
+New Mexico,NM,Hidalgo County,35023,28,16%
+New Mexico,NM,Lea County,35025,21,16%
+New Mexico,NM,Lincoln County,35027,12,16%
+New Mexico,NM,Los Alamos County,35028,5,16%
+New Mexico,NM,Luna County,35029,33,16%
+New Mexico,NM,McKinley County,35031,16,16%
+New Mexico,NM,Mora County,35033,25,16%
+New Mexico,NM,Otero County,35035,17,16%
+New Mexico,NM,Quay County,35037,19,16%
+New Mexico,NM,Rio Arriba County,35039,23,16%
+New Mexico,NM,Roosevelt County,35041,15,16%
+New Mexico,NM,Sandoval County,35043,11,16%
+New Mexico,NM,San Juan County,35045,12,16%
+New Mexico,NM,San Miguel County,35047,21,16%
+New Mexico,NM,Santa Fe County,35049,13,16%
+New Mexico,NM,Sierra County,35051,16,16%
+New Mexico,NM,Socorro County,35053,21,16%
+New Mexico,NM,Taos County,35055,17,16%
+New Mexico,NM,Torrance County,35057,16,16%
+New Mexico,NM,Union County,35059,17,16%
+New Mexico,NM,Valencia County,35061,20,16%
+Nevada,NV,Churchill County,32001,10,16%
+Nevada,NV,Clark County,32003,18,16%
+Nevada,NV,Douglas County,32005,8,16%
+Nevada,NV,Elko County,32007,14,16%
+Nevada,NV,Esmeralda County,32009,16,16%
+Nevada,NV,Eureka County,32011,14,16%
+Nevada,NV,Humboldt County,32013,14,16%
+Nevada,NV,Lander County,32015,15,16%
+Nevada,NV,Lincoln County,32017,12,16%
+Nevada,NV,Lyon County,32019,12,16%
+Nevada,NV,Mineral County,32021,13,16%
+Nevada,NV,Nye County,32023,14,16%
+Nevada,NV,Pershing County,32027,16,16%
+Nevada,NV,Storey County,32029,8,16%
+Nevada,NV,Washoe County,32031,13,16%
+Nevada,NV,White Pine County,32033,12,16%
+Nevada,NV,Carson City,32510,13,16%
+New York,NY,Albany County,36001,8,22%
+New York,NY,Allegany County,36003,12,22%
+New York,NY,Bronx County,36005,41,22%
+New York,NY,Broome County,36007,11,22%
+New York,NY,Cattaraugus County,36009,12,22%
+New York,NY,Cayuga County,36011,12,22%
+New York,NY,Chautauqua County,36013,12,22%
+New York,NY,Chemung County,36015,9,22%
+New York,NY,Chenango County,36017,12,22%
+New York,NY,Clinton County,36019,13,22%
+New York,NY,Columbia County,36021,11,22%
+New York,NY,Cortland County,36023,11,22%
+New York,NY,Delaware County,36025,12,22%
+New York,NY,Dutchess County,36027,11,22%
+New York,NY,Erie County,36029,12,22%
+New York,NY,Essex County,36031,12,22%
+New York,NY,Franklin County,36033,15,22%
+New York,NY,Fulton County,36035,12,22%
+New York,NY,Genesee County,36037,11,22%
+New York,NY,Greene County,36039,13,22%
+New York,NY,Hamilton County,36041,10,22%
+New York,NY,Herkimer County,36043,11,22%
+New York,NY,Jefferson County,36045,12,22%
+New York,NY,Kings County,36047,37,22%
+New York,NY,Lewis County,36049,14,22%
+New York,NY,Livingston County,36051,8,22%
+New York,NY,Madison County,36053,10,22%
+New York,NY,Monroe County,36055,13,22%
+New York,NY,Montgomery County,36057,13,22%
+New York,NY,Nassau County,36059,10,22%
+New York,NY,New York County,36061,25,22%
+New York,NY,Niagara County,36063,13,22%
+New York,NY,Oneida County,36065,13,22%
+New York,NY,Onondaga County,36067,10,22%
+New York,NY,Ontario County,36069,7,22%
+New York,NY,Orange County,36071,11,22%
+New York,NY,Orleans County,36073,13,22%
+New York,NY,Oswego County,36075,12,22%
+New York,NY,Otsego County,36077,11,22%
+New York,NY,Putnam County,36079,9,22%
+New York,NY,Queens County,36081,46,22%
+New York,NY,Rensselaer County,36083,9,22%
+New York,NY,Richmond County,36085,14,22%
+New York,NY,Rockland County,36087,12,22%
+New York,NY,St. Lawrence County,36089,13,22%
+New York,NY,Saratoga County,36091,8,22%
+New York,NY,Schenectady County,36093,10,22%
+New York,NY,Schoharie County,36095,11,22%
+New York,NY,Schuyler County,36097,11,22%
+New York,NY,Seneca County,36099,9,22%
+New York,NY,Steuben County,36101,11,22%
+New York,NY,Suffolk County,36103,14,22%
+New York,NY,Sullivan County,36105,15,22%
+New York,NY,Tioga County,36107,10,22%
+New York,NY,Tompkins County,36109,10,22%
+New York,NY,Ulster County,36111,11,22%
+New York,NY,Warren County,36113,10,22%
+New York,NY,Washington County,36115,13,22%
+New York,NY,Wayne County,36117,8,22%
+New York,NY,Westchester County,36119,13,22%
+New York,NY,Wyoming County,36121,13,22%
+New York,NY,Yates County,36123,11,22%
+Ohio,OH,Adams County,39001,13,9%
+Ohio,OH,Allen County,39003,10,9%
+Ohio,OH,Ashland County,39005,9,9%
+Ohio,OH,Ashtabula County,39007,11,9%
+Ohio,OH,Athens County,39009,9,9%
+Ohio,OH,Auglaize County,39011,9,9%
+Ohio,OH,Belmont County,39013,10,9%
+Ohio,OH,Brown County,39015,10,9%
+Ohio,OH,Butler County,39017,7,9%
+Ohio,OH,Carroll County,39019,11,9%
+Ohio,OH,Champaign County,39021,10,9%
+Ohio,OH,Clark County,39023,10,9%
+Ohio,OH,Clermont County,39025,7,9%
+Ohio,OH,Clinton County,39027,9,9%
+Ohio,OH,Columbiana County,39029,11,9%
+Ohio,OH,Coshocton County,39031,11,9%
+Ohio,OH,Crawford County,39033,11,9%
+Ohio,OH,Cuyahoga County,39035,9,9%
+Ohio,OH,Darke County,39037,10,9%
+Ohio,OH,Defiance County,39039,9,9%
+Ohio,OH,Delaware County,39041,4,9%
+Ohio,OH,Erie County,39043,9,9%
+Ohio,OH,Fairfield County,39045,7,9%
+Ohio,OH,Fayette County,39047,11,9%
+Ohio,OH,Franklin County,39049,13,9%
+Ohio,OH,Fulton County,39051,9,9%
+Ohio,OH,Gallia County,39053,11,9%
+Ohio,OH,Geauga County,39055,5,9%
+Ohio,OH,Greene County,39057,7,9%
+Ohio,OH,Guernsey County,39059,11,9%
+Ohio,OH,Hamilton County,39061,7,9%
+Ohio,OH,Hancock County,39063,8,9%
+Ohio,OH,Hardin County,39065,11,9%
+Ohio,OH,Harrison County,39067,11,9%
+Ohio,OH,Henry County,39069,10,9%
+Ohio,OH,Highland County,39071,11,9%
+Ohio,OH,Hocking County,39073,11,9%
+Ohio,OH,Holmes County,39075,13,9%
+Ohio,OH,Huron County,39077,11,9%
+Ohio,OH,Jackson County,39079,11,9%
+Ohio,OH,Jefferson County,39081,11,9%
+Ohio,OH,Knox County,39083,9,9%
+Ohio,OH,Lake County,39085,6,9%
+Ohio,OH,Lawrence County,39087,11,9%
+Ohio,OH,Licking County,39089,11,9%
+Ohio,OH,Logan County,39091,10,9%
+Ohio,OH,Lorain County,39093,8,9%
+Ohio,OH,Lucas County,39095,9,9%
+Ohio,OH,Madison County,39097,9,9%
+Ohio,OH,Mahoning County,39099,10,9%
+Ohio,OH,Marion County,39101,10,9%
+Ohio,OH,Medina County,39103,6,9%
+Ohio,OH,Meigs County,39105,12,9%
+Ohio,OH,Mercer County,39107,10,9%
+Ohio,OH,Miami County,39109,8,9%
+Ohio,OH,Monroe County,39111,11,9%
+Ohio,OH,Montgomery County,39113,9,9%
+Ohio,OH,Morgan County,39115,11,9%
+Ohio,OH,Morrow County,39117,9,9%
+Ohio,OH,Muskingum County,39119,10,9%
+Ohio,OH,Noble County,39121,11,9%
+Ohio,OH,Ottawa County,39123,8,9%
+Ohio,OH,Paulding County,39125,11,9%
+Ohio,OH,Perry County,39127,11,9%
+Ohio,OH,Pickaway County,39129,9,9%
+Ohio,OH,Pike County,39131,12,9%
+Ohio,OH,Portage County,39133,8,9%
+Ohio,OH,Preble County,39135,10,9%
+Ohio,OH,Putnam County,39137,9,9%
+Ohio,OH,Richland County,39139,10,9%
+Ohio,OH,Ross County,39141,11,9%
+Ohio,OH,Sandusky County,39143,10,9%
+Ohio,OH,Scioto County,39145,11,9%
+Ohio,OH,Seneca County,39147,10,9%
+Ohio,OH,Shelby County,39149,9,9%
+Ohio,OH,Stark County,39151,9,9%
+Ohio,OH,Summit County,39153,8,9%
+Ohio,OH,Trumbull County,39155,10,9%
+Ohio,OH,Tuscarawas County,39157,10,9%
+Ohio,OH,Union County,39159,7,9%
+Ohio,OH,Van Wert County,39161,10,9%
+Ohio,OH,Vinton County,39163,13,9%
+Ohio,OH,Warren County,39165,6,9%
+Ohio,OH,Washington County,39167,9,9%
+Ohio,OH,Wayne County,39169,9,9%
+Ohio,OH,Williams County,39171,10,9%
+Ohio,OH,Wood County,39173,7,9%
+Ohio,OH,Wyandot County,39175,10,9%
+Oklahoma,OK,Adair County,40001,15,12%
+Oklahoma,OK,Alfalfa County,40003,13,12%
+Oklahoma,OK,Atoka County,40005,17,12%
+Oklahoma,OK,Beaver County,40007,11,12%
+Oklahoma,OK,Beckham County,40009,14,12%
+Oklahoma,OK,Blaine County,40011,16,12%
+Oklahoma,OK,Bryan County,40013,12,12%
+Oklahoma,OK,Caddo County,40015,15,12%
+Oklahoma,OK,Canadian County,40017,8,12%
+Oklahoma,OK,Carter County,40019,14,12%
+Oklahoma,OK,Cherokee County,40021,13,12%
+Oklahoma,OK,Choctaw County,40023,17,12%
+Oklahoma,OK,Cimarron County,40025,17,12%
+Oklahoma,OK,Cleveland County,40027,8,12%
+Oklahoma,OK,Coal County,40029,15,12%
+Oklahoma,OK,Comanche County,40031,13,12%
+Oklahoma,OK,Cotton County,40033,14,12%
+Oklahoma,OK,Craig County,40035,13,12%
+Oklahoma,OK,Creek County,40037,17,12%
+Oklahoma,OK,Custer County,40039,11,12%
+Oklahoma,OK,Delaware County,40041,13,12%
+Oklahoma,OK,Dewey County,40043,13,12%
+Oklahoma,OK,Ellis County,40045,11,12%
+Oklahoma,OK,Garfield County,40047,8,12%
+Oklahoma,OK,Garvin County,40049,15,12%
+Oklahoma,OK,Grady County,40051,11,12%
+Oklahoma,OK,Grant County,40053,11,12%
+Oklahoma,OK,Greer County,40055,14,12%
+Oklahoma,OK,Harmon County,40057,21,12%
+Oklahoma,OK,Harper County,40059,12,12%
+Oklahoma,OK,Haskell County,40061,15,12%
+Oklahoma,OK,Hughes County,40063,16,12%
+Oklahoma,OK,Jackson County,40065,13,12%
+Oklahoma,OK,Jefferson County,40067,17,12%
+Oklahoma,OK,Johnston County,40069,14,12%
+Oklahoma,OK,Kay County,40071,11,12%
+Oklahoma,OK,Kingfisher County,40073,13,12%
+Oklahoma,OK,Kiowa County,40075,14,12%
+Oklahoma,OK,Latimer County,40077,14,12%
+Oklahoma,OK,Le Flore County,40079,11,12%
+Oklahoma,OK,Lincoln County,40081,12,12%
+Oklahoma,OK,Logan County,40083,11,12%
+Oklahoma,OK,Love County,40085,16,12%
+Oklahoma,OK,McClain County,40087,11,12%
+Oklahoma,OK,McCurtain County,40089,17,12%
+Oklahoma,OK,McIntosh County,40091,14,12%
+Oklahoma,OK,Major County,40093,13,12%
+Oklahoma,OK,Marshall County,40095,17,12%
+Oklahoma,OK,Mayes County,40097,13,12%
+Oklahoma,OK,Murray County,40099,14,12%
+Oklahoma,OK,Muskogee County,40101,14,12%
+Oklahoma,OK,Noble County,40103,12,12%
+Oklahoma,OK,Nowata County,40105,11,12%
+Oklahoma,OK,Okfuskee County,40107,17,12%
+Oklahoma,OK,Oklahoma County,40109,12,12%
+Oklahoma,OK,Okmulgee County,40111,14,12%
+Oklahoma,OK,Osage County,40113,12,12%
+Oklahoma,OK,Ottawa County,40115,13,12%
+Oklahoma,OK,Pawnee County,40117,12,12%
+Oklahoma,OK,Payne County,40119,10,12%
+Oklahoma,OK,Pittsburg County,40121,13,12%
+Oklahoma,OK,Pontotoc County,40123,11,12%
+Oklahoma,OK,Pottawatomie County,40125,11,12%
+Oklahoma,OK,Pushmataha County,40127,15,12%
+Oklahoma,OK,Roger Mills County,40129,12,12%
+Oklahoma,OK,Rogers County,40131,8,12%
+Oklahoma,OK,Seminole County,40133,14,12%
+Oklahoma,OK,Sequoyah County,40135,11,12%
+Oklahoma,OK,Stephens County,40137,13,12%
+Oklahoma,OK,Texas County,40139,24,12%
+Oklahoma,OK,Tillman County,40141,19,12%
+Oklahoma,OK,Tulsa County,40143,14,12%
+Oklahoma,OK,Wagoner County,40145,9,12%
+Oklahoma,OK,Washington County,40147,9,12%
+Oklahoma,OK,Washita County,40149,13,12%
+Oklahoma,OK,Woods County,40151,10,12%
+Oklahoma,OK,Woodward County,40153,14,12%
+Oregon,OR,Baker County,41001,10,10%
+Oregon,OR,Benton County,41003,7,10%
+Oregon,OR,Clackamas County,41005,7,10%
+Oregon,OR,Clatsop County,41007,9,10%
+Oregon,OR,Columbia County,41009,8,10%
+Oregon,OR,Coos County,41011,10,10%
+Oregon,OR,Crook County,41013,13,10%
+Oregon,OR,Curry County,41015,10,10%
+Oregon,OR,Deschutes County,41017,8,10%
+Oregon,OR,Douglas County,41019,11,10%
+Oregon,OR,Gilliam County,41021,9,10%
+Oregon,OR,Grant County,41023,10,10%
+Oregon,OR,Harney County,41025,12,10%
+Oregon,OR,Hood River County,41027,18,10%
+Oregon,OR,Jackson County,41029,10,10%
+Oregon,OR,Jefferson County,41031,16,10%
+Oregon,OR,Josephine County,41033,10,10%
+Oregon,OR,Klamath County,41035,12,10%
+Oregon,OR,Lake County,41037,12,10%
+Oregon,OR,Lane County,41039,9,10%
+Oregon,OR,Lincoln County,41041,10,10%
+Oregon,OR,Linn County,41043,11,10%
+Oregon,OR,Malheur County,41045,18,10%
+Oregon,OR,Marion County,41047,15,10%
+Oregon,OR,Morrow County,41049,20,10%
+Oregon,OR,Multnomah County,41051,11,10%
+Oregon,OR,Polk County,41053,10,10%
+Oregon,OR,Sherman County,41055,10,10%
+Oregon,OR,Tillamook County,41057,11,10%
+Oregon,OR,Umatilla County,41059,14,10%
+Oregon,OR,Union County,41061,10,10%
+Oregon,OR,Wallowa County,41063,9,10%
+Oregon,OR,Wasco County,41065,12,10%
+Oregon,OR,Washington County,41067,9,10%
+Oregon,OR,Wheeler County,41069,12,10%
+Oregon,OR,Yamhill County,41071,11,10%
+Pennsylvania,PA,Adams County,42001,13,13%
+Pennsylvania,PA,Allegheny County,42003,10,13%
+Pennsylvania,PA,Armstrong County,42005,13,13%
+Pennsylvania,PA,Beaver County,42007,10,13%
+Pennsylvania,PA,Bedford County,42009,14,13%
+Pennsylvania,PA,Berks County,42011,14,13%
+Pennsylvania,PA,Blair County,42013,13,13%
+Pennsylvania,PA,Bradford County,42015,13,13%
+Pennsylvania,PA,Bucks County,42017,9,13%
+Pennsylvania,PA,Butler County,42019,9,13%
+Pennsylvania,PA,Cambria County,42021,14,13%
+Pennsylvania,PA,Cameron County,42023,14,13%
+Pennsylvania,PA,Carbon County,42025,14,13%
+Pennsylvania,PA,Centre County,42027,11,13%
+Pennsylvania,PA,Chester County,42029,7,13%
+Pennsylvania,PA,Clarion County,42031,14,13%
+Pennsylvania,PA,Clearfield County,42033,14,13%
+Pennsylvania,PA,Clinton County,42035,14,13%
+Pennsylvania,PA,Columbia County,42037,13,13%
+Pennsylvania,PA,Crawford County,42039,13,13%
+Pennsylvania,PA,Cumberland County,42041,10,13%
+Pennsylvania,PA,Dauphin County,42043,13,13%
+Pennsylvania,PA,Delaware County,42045,10,13%
+Pennsylvania,PA,Elk County,42047,13,13%
+Pennsylvania,PA,Erie County,42049,12,13%
+Pennsylvania,PA,Fayette County,42051,14,13%
+Pennsylvania,PA,Forest County,42053,16,13%
+Pennsylvania,PA,Franklin County,42055,13,13%
+Pennsylvania,PA,Fulton County,42057,15,13%
+Pennsylvania,PA,Greene County,42059,15,13%
+Pennsylvania,PA,Huntingdon County,42061,15,13%
+Pennsylvania,PA,Indiana County,42063,14,13%
+Pennsylvania,PA,Jefferson County,42065,14,13%
+Pennsylvania,PA,Juniata County,42067,16,13%
+Pennsylvania,PA,Lackawanna County,42069,12,13%
+Pennsylvania,PA,Lancaster County,42071,15,13%
+Pennsylvania,PA,Lawrence County,42073,13,13%
+Pennsylvania,PA,Lebanon County,42075,14,13%
+Pennsylvania,PA,Lehigh County,42077,13,13%
+Pennsylvania,PA,Luzerne County,42079,12,13%
+Pennsylvania,PA,Lycoming County,42081,12,13%
+Pennsylvania,PA,McKean County,42083,13,13%
+Pennsylvania,PA,Mercer County,42085,12,13%
+Pennsylvania,PA,Mifflin County,42087,15,13%
+Pennsylvania,PA,Monroe County,42089,12,13%
+Pennsylvania,PA,Montgomery County,42091,8,13%
+Pennsylvania,PA,Montour County,42093,11,13%
+Pennsylvania,PA,Northampton County,42095,12,13%
+Pennsylvania,PA,Northumberland County,42097,15,13%
+Pennsylvania,PA,Perry County,42099,13,13%
+Pennsylvania,PA,Philadelphia County,42101,22,13%
+Pennsylvania,PA,Pike County,42103,10,13%
+Pennsylvania,PA,Potter County,42105,13,13%
+Pennsylvania,PA,Schuylkill County,42107,14,13%
+Pennsylvania,PA,Snyder County,42109,15,13%
+Pennsylvania,PA,Somerset County,42111,15,13%
+Pennsylvania,PA,Sullivan County,42113,14,13%
+Pennsylvania,PA,Susquehanna County,42115,13,13%
+Pennsylvania,PA,Tioga County,42117,13,13%
+Pennsylvania,PA,Union County,42119,15,13%
+Pennsylvania,PA,Venango County,42121,14,13%
+Pennsylvania,PA,Warren County,42123,12,13%
+Pennsylvania,PA,Washington County,42125,10,13%
+Pennsylvania,PA,Wayne County,42127,12,13%
+Pennsylvania,PA,Westmoreland County,42129,9,13%
+Pennsylvania,PA,Wyoming County,42131,12,13%
+Pennsylvania,PA,York County,42133,12,13%
+Rhode Island,RI,Bristol County,44001,5,8%
+Rhode Island,RI,Kent County,44003,6,8%
+Rhode Island,RI,Newport County,44005,5,8%
+Rhode Island,RI,Providence County,44007,11,8%
+Rhode Island,RI,Washington County,44009,5,8%
+South Carolina,SC,Abbeville County,45001,17,15%
+South Carolina,SC,Aiken County,45003,11,15%
+South Carolina,SC,Allendale County,45005,29,15%
+South Carolina,SC,Anderson County,45007,14,15%
+South Carolina,SC,Bamberg County,45009,23,15%
+South Carolina,SC,Barnwell County,45011,20,15%
+South Carolina,SC,Beaufort County,45013,11,15%
+South Carolina,SC,Berkeley County,45015,15,15%
+South Carolina,SC,Calhoun County,45017,19,15%
+South Carolina,SC,Charleston County,45019,14,15%
+South Carolina,SC,Cherokee County,45021,17,15%
+South Carolina,SC,Chester County,45023,20,15%
+South Carolina,SC,Chesterfield County,45025,20,15%
+South Carolina,SC,Clarendon County,45027,23,15%
+South Carolina,SC,Colleton County,45029,20,15%
+South Carolina,SC,Darlington County,45031,18,15%
+South Carolina,SC,Dillon County,45033,24,15%
+South Carolina,SC,Dorchester County,45035,13,15%
+South Carolina,SC,Edgefield County,45037,17,15%
+South Carolina,SC,Fairfield County,45039,23,15%
+South Carolina,SC,Florence County,45041,16,15%
+South Carolina,SC,Georgetown County,45043,16,15%
+South Carolina,SC,Greenville County,45045,12,15%
+South Carolina,SC,Greenwood County,45047,16,15%
+South Carolina,SC,Hampton County,45049,24,15%
+South Carolina,SC,Horry County,45051,12,15%
+South Carolina,SC,Jasper County,45053,27,15%
+South Carolina,SC,Kershaw County,45055,15,15%
+South Carolina,SC,Lancaster County,45057,17,15%
+South Carolina,SC,Laurens County,45059,18,15%
+South Carolina,SC,Lee County,45061,28,15%
+South Carolina,SC,Lexington County,45063,10,15%
+South Carolina,SC,McCormick County,45065,20,15%
+South Carolina,SC,Marion County,45067,25,15%
+South Carolina,SC,Marlboro County,45069,24,15%
+South Carolina,SC,Newberry County,45071,19,15%
+South Carolina,SC,Oconee County,45073,13,15%
+South Carolina,SC,Orangeburg County,45075,21,15%
+South Carolina,SC,Pickens County,45077,13,15%
+South Carolina,SC,Richland County,45079,12,15%
+South Carolina,SC,Saluda County,45081,23,15%
+South Carolina,SC,Spartanburg County,45083,14,15%
+South Carolina,SC,Sumter County,45085,17,15%
+South Carolina,SC,Union County,45087,18,15%
+South Carolina,SC,Williamsburg County,45089,26,15%
+South Carolina,SC,York County,45091,11,15%
+South Dakota,SD,Aurora County,46003,8,7%
+South Dakota,SD,Beadle County,46005,7,7%
+South Dakota,SD,Bennett County,46007,9,7%
+South Dakota,SD,Bon Homme County,46009,8,7%
+South Dakota,SD,Brookings County,46011,6,7%
+South Dakota,SD,Brown County,46013,6,7%
+South Dakota,SD,Brule County,46015,7,7%
+South Dakota,SD,Buffalo County,46017,14,7%
+South Dakota,SD,Butte County,46019,9,7%
+South Dakota,SD,Campbell County,46021,8,7%
+South Dakota,SD,Charles Mix County,46023,9,7%
+South Dakota,SD,Clark County,46025,9,7%
+South Dakota,SD,Clay County,46027,6,7%
+South Dakota,SD,Codington County,46029,7,7%
+South Dakota,SD,Corson County,46031,10,7%
+South Dakota,SD,Custer County,46033,6,7%
+South Dakota,SD,Davison County,46035,7,7%
+South Dakota,SD,Day County,46037,8,7%
+South Dakota,SD,Deuel County,46039,8,7%
+South Dakota,SD,Dewey County,46041,9,7%
+South Dakota,SD,Douglas County,46043,8,7%
+South Dakota,SD,Edmunds County,46045,8,7%
+South Dakota,SD,Fall River County,46047,7,7%
+South Dakota,SD,Faulk County,46049,9,7%
+South Dakota,SD,Grant County,46051,9,7%
+South Dakota,SD,Gregory County,46053,9,7%
+South Dakota,SD,Haakon County,46055,7,7%
+South Dakota,SD,Hamlin County,46057,9,7%
+South Dakota,SD,Hand County,46059,8,7%
+South Dakota,SD,Hanson County,46061,9,7%
+South Dakota,SD,Harding County,46063,7,7%
+South Dakota,SD,Hughes County,46065,5,7%
+South Dakota,SD,Hutchinson County,46067,8,7%
+South Dakota,SD,Hyde County,46069,8,7%
+South Dakota,SD,Jackson County,46071,8,7%
+South Dakota,SD,Jerauld County,46073,9,7%
+South Dakota,SD,Jones County,46075,7,7%
+South Dakota,SD,Kingsbury County,46077,8,7%
+South Dakota,SD,Lake County,46079,7,7%
+South Dakota,SD,Lawrence County,46081,6,7%
+South Dakota,SD,Lincoln County,46083,5,7%
+South Dakota,SD,Lyman County,46085,9,7%
+South Dakota,SD,McCook County,46087,8,7%
+South Dakota,SD,McPherson County,46089,11,7%
+South Dakota,SD,Marshall County,46091,8,7%
+South Dakota,SD,Meade County,46093,6,7%
+South Dakota,SD,Mellette County,46095,9,7%
+South Dakota,SD,Miner County,46097,9,7%
+South Dakota,SD,Minnehaha County,46099,6,7%
+South Dakota,SD,Moody County,46101,7,7%
+South Dakota,SD,Pennington County,46103,6,7%
+South Dakota,SD,Perkins County,46105,8,7%
+South Dakota,SD,Potter County,46107,8,7%
+South Dakota,SD,Roberts County,46109,9,7%
+South Dakota,SD,Sanborn County,46111,8,7%
+South Dakota,SD,Shannon County,46113,10,7%
+South Dakota,SD,Spink County,46115,8,7%
+South Dakota,SD,Stanley County,46117,6,7%
+South Dakota,SD,Sully County,46119,7,7%
+South Dakota,SD,Todd County,46121,10,7%
+South Dakota,SD,Tripp County,46123,9,7%
+South Dakota,SD,Turner County,46125,7,7%
+South Dakota,SD,Union County,46127,6,7%
+South Dakota,SD,Walworth County,46129,8,7%
+South Dakota,SD,Yankton County,46135,7,7%
+South Dakota,SD,Ziebach County,46137,11,7%
+Tennessee,TN,Anderson County,47001,11,13%
+Tennessee,TN,Bedford County,47003,19,13%
+Tennessee,TN,Benton County,47005,17,13%
+Tennessee,TN,Bledsoe County,47007,17,13%
+Tennessee,TN,Blount County,47009,11,13%
+Tennessee,TN,Bradley County,47011,12,13%
+Tennessee,TN,Campbell County,47013,18,13%
+Tennessee,TN,Cannon County,47015,15,13%
+Tennessee,TN,Carroll County,47017,16,13%
+Tennessee,TN,Carter County,47019,14,13%
+Tennessee,TN,Cheatham County,47021,11,13%
+Tennessee,TN,Chester County,47023,14,13%
+Tennessee,TN,Claiborne County,47025,17,13%
+Tennessee,TN,Clay County,47027,19,13%
+Tennessee,TN,Cocke County,47029,18,13%
+Tennessee,TN,Coffee County,47031,13,13%
+Tennessee,TN,Crockett County,47033,20,13%
+Tennessee,TN,Cumberland County,47035,13,13%
+Tennessee,TN,Davidson County,47037,12,13%
+Tennessee,TN,Decatur County,47039,18,13%
+Tennessee,TN,DeKalb County,47041,17,13%
+Tennessee,TN,Dickson County,47043,12,13%
+Tennessee,TN,Dyer County,47045,16,13%
+Tennessee,TN,Fayette County,47047,16,13%
+Tennessee,TN,Fentress County,47049,19,13%
+Tennessee,TN,Franklin County,47051,13,13%
+Tennessee,TN,Gibson County,47053,17,13%
+Tennessee,TN,Giles County,47055,16,13%
+Tennessee,TN,Grainger County,47057,17,13%
+Tennessee,TN,Greene County,47059,14,13%
+Tennessee,TN,Grundy County,47061,19,13%
+Tennessee,TN,Hamblen County,47063,16,13%
+Tennessee,TN,Hamilton County,47065,11,13%
+Tennessee,TN,Hancock County,47067,18,13%
+Tennessee,TN,Hardeman County,47069,21,13%
+Tennessee,TN,Hardin County,47071,16,13%
+Tennessee,TN,Hawkins County,47073,15,13%
+Tennessee,TN,Haywood County,47075,25,13%
+Tennessee,TN,Henderson County,47077,15,13%
+Tennessee,TN,Henry County,47079,16,13%
+Tennessee,TN,Hickman County,47081,15,13%
+Tennessee,TN,Houston County,47083,16,13%
+Tennessee,TN,Humphreys County,47085,15,13%
+Tennessee,TN,Jackson County,47087,18,13%
+Tennessee,TN,Jefferson County,47089,14,13%
+Tennessee,TN,Johnson County,47091,18,13%
+Tennessee,TN,Knox County,47093,10,13%
+Tennessee,TN,Lake County,47095,23,13%
+Tennessee,TN,Lauderdale County,47097,22,13%
+Tennessee,TN,Lawrence County,47099,16,13%
+Tennessee,TN,Lewis County,47101,15,13%
+Tennessee,TN,Lincoln County,47103,20,13%
+Tennessee,TN,Loudon County,47105,12,13%
+Tennessee,TN,McMinn County,47107,15,13%
+Tennessee,TN,McNairy County,47109,16,13%
+Tennessee,TN,Macon County,47111,17,13%
+Tennessee,TN,Madison County,47113,14,13%
+Tennessee,TN,Marion County,47115,15,13%
+Tennessee,TN,Marshall County,47117,15,13%
+Tennessee,TN,Maury County,47119,13,13%
+Tennessee,TN,Meigs County,47121,16,13%
+Tennessee,TN,Monroe County,47123,15,13%
+Tennessee,TN,Montgomery County,47125,12,13%
+Tennessee,TN,Moore County,47127,12,13%
+Tennessee,TN,Morgan County,47129,17,13%
+Tennessee,TN,Obion County,47131,16,13%
+Tennessee,TN,Overton County,47133,17,13%
+Tennessee,TN,Perry County,47135,16,13%
+Tennessee,TN,Pickett County,47137,17,13%
+Tennessee,TN,Polk County,47139,16,13%
+Tennessee,TN,Putnam County,47141,14,13%
+Tennessee,TN,Rhea County,47143,13,13%
+Tennessee,TN,Roane County,47145,13,13%
+Tennessee,TN,Robertson County,47147,13,13%
+Tennessee,TN,Rutherford County,47149,10,13%
+Tennessee,TN,Scott County,47151,18,13%
+Tennessee,TN,Sequatchie County,47153,15,13%
+Tennessee,TN,Sevier County,47155,12,13%
+Tennessee,TN,Shelby County,47157,14,13%
+Tennessee,TN,Smith County,47159,14,13%
+Tennessee,TN,Stewart County,47161,14,13%
+Tennessee,TN,Sullivan County,47163,12,13%
+Tennessee,TN,Sumner County,47165,10,13%
+Tennessee,TN,Tipton County,47167,13,13%
+Tennessee,TN,Trousdale County,47169,16,13%
+Tennessee,TN,Unicoi County,47171,15,13%
+Tennessee,TN,Union County,47173,18,13%
+Tennessee,TN,Van Buren County,47175,18,13%
+Tennessee,TN,Warren County,47177,18,13%
+Tennessee,TN,Washington County,47179,11,13%
+Tennessee,TN,Wayne County,47181,18,13%
+Tennessee,TN,Weakley County,47183,15,13%
+Tennessee,TN,White County,47185,16,13%
+Tennessee,TN,Williamson County,47187,6,13%
+Tennessee,TN,Wilson County,47189,9,13%
+Texas,TX,Anderson County,48001,18,19%
+Texas,TX,Andrews County,48003,22,19%
+Texas,TX,Angelina County,48005,17,19%
+Texas,TX,Aransas County,48007,14,19%
+Texas,TX,Archer County,48009,11,19%
+Texas,TX,Armstrong County,48011,9,19%
+Texas,TX,Atascosa County,48013,21,19%
+Texas,TX,Austin County,48015,15,19%
+Texas,TX,Bailey County,48017,26,19%
+Texas,TX,Bandera County,48019,9,19%
+Texas,TX,Bastrop County,48021,15,19%
+Texas,TX,Baylor County,48023,14,19%
+Texas,TX,Bee County,48025,21,19%
+Texas,TX,Bell County,48027,13,19%
+Texas,TX,Bexar County,48029,17,19%
+Texas,TX,Blanco County,48031,12,19%
+Texas,TX,Borden County,48033,12,19%
+Texas,TX,Bosque County,48035,13,19%
+Texas,TX,Bowie County,48037,13,19%
+Texas,TX,Brazoria County,48039,13,19%
+Texas,TX,Brazos County,48041,14,19%
+Texas,TX,Brewster County,48043,15,19%
+Texas,TX,Briscoe County,48045,15,19%
+Texas,TX,Brooks County,48047,36,19%
+Texas,TX,Brown County,48049,14,19%
+Texas,TX,Burleson County,48051,17,19%
+Texas,TX,Burnet County,48053,13,19%
+Texas,TX,Caldwell County,48055,19,19%
+Texas,TX,Calhoun County,48057,22,19%
+Texas,TX,Callahan County,48059,12,19%
+Texas,TX,Cameron County,48061,43,19%
+Texas,TX,Camp County,48063,22,19%
+Texas,TX,Carson County,48065,10,19%
+Texas,TX,Cass County,48067,15,19%
+Texas,TX,Castro County,48069,26,19%
+Texas,TX,Chambers County,48071,12,19%
+Texas,TX,Cherokee County,48073,20,19%
+Texas,TX,Childress County,48075,20,19%
+Texas,TX,Clay County,48077,11,19%
+Texas,TX,Cochran County,48079,24,19%
+Texas,TX,Coke County,48081,14,19%
+Texas,TX,Coleman County,48083,16,19%
+Texas,TX,Collin County,48085,8,19%
+Texas,TX,Collingsworth County,48087,15,19%
+Texas,TX,Colorado County,48089,20,19%
+Texas,TX,Comal County,48091,10,19%
+Texas,TX,Comanche County,48093,19,19%
+Texas,TX,Concho County,48095,20,19%
+Texas,TX,Cooke County,48097,13,19%
+Texas,TX,Coryell County,48099,14,19%
+Texas,TX,Cottle County,48101,17,19%
+Texas,TX,Crane County,48103,24,19%
+Texas,TX,Crockett County,48105,24,19%
+Texas,TX,Crosby County,48107,24,19%
+Texas,TX,Culberson County,48109,32,19%
+Texas,TX,Dallam County,48111,21,19%
+Texas,TX,Dallas County,48113,21,19%
+Texas,TX,Dawson County,48115,25,19%
+Texas,TX,Deaf Smith County,48117,27,19%
+Texas,TX,Delta County,48119,11,19%
+Texas,TX,Denton County,48121,8,19%
+Texas,TX,DeWitt County,48123,19,19%
+Texas,TX,Dickens County,48125,18,19%
+Texas,TX,Dimmit County,48127,34,19%
+Texas,TX,Donley County,48129,10,19%
+Texas,TX,Duval County,48131,31,19%
+Texas,TX,Eastland County,48133,15,19%
+Texas,TX,Ector County,48135,21,19%
+Texas,TX,Edwards County,48137,22,19%
+Texas,TX,Ellis County,48139,13,19%
+Texas,TX,El Paso County,48141,36,19%
+Texas,TX,Erath County,48143,13,19%
+Texas,TX,Falls County,48145,22,19%
+Texas,TX,Fannin County,48147,15,19%
+Texas,TX,Fayette County,48149,17,19%
+Texas,TX,Fisher County,48151,16,19%
+Texas,TX,Floyd County,48153,23,19%
+Texas,TX,Foard County,48155,16,19%
+Texas,TX,Fort Bend County,48157,24,19%
+Texas,TX,Franklin County,48159,14,19%
+Texas,TX,Freestone County,48161,16,19%
+Texas,TX,Frio County,48163,32,19%
+Texas,TX,Gaines County,48165,30,19%
+Texas,TX,Galveston County,48167,13,19%
+Texas,TX,Garza County,48169,23,19%
+Texas,TX,Gillespie County,48171,12,19%
+Texas,TX,Glasscock County,48173,19,19%
+Texas,TX,Goliad County,48175,16,19%
+Texas,TX,Gonzales County,48177,29,19%
+Texas,TX,Gray County,48179,14,19%
+Texas,TX,Grayson County,48181,11,19%
+Texas,TX,Gregg County,48183,14,19%
+Texas,TX,Grimes County,48185,20,19%
+Texas,TX,Guadalupe County,48187,14,19%
+Texas,TX,Hale County,48189,23,19%
+Texas,TX,Hall County,48191,25,19%
+Texas,TX,Hamilton County,48193,13,19%
+Texas,TX,Hansford County,48195,23,19%
+Texas,TX,Hardeman County,48197,15,19%
+Texas,TX,Hardin County,48199,12,19%
+Texas,TX,Harris County,48201,21,19%
+Texas,TX,Harrison County,48203,15,19%
+Texas,TX,Hartley County,48205,13,19%
+Texas,TX,Haskell County,48207,17,19%
+Texas,TX,Hays County,48209,10,19%
+Texas,TX,Hemphill County,48211,12,19%
+Texas,TX,Henderson County,48213,14,19%
+Texas,TX,Hidalgo County,48215,50,19%
+Texas,TX,Hill County,48217,17,19%
+Texas,TX,Hockley County,48219,18,19%
+Texas,TX,Hood County,48221,9,19%
+Texas,TX,Hopkins County,48223,16,19%
+Texas,TX,Houston County,48225,19,19%
+Texas,TX,Howard County,48227,19,19%
+Texas,TX,Hudspeth County,48229,52,19%
+Texas,TX,Hunt County,48231,13,19%
+Texas,TX,Hutchinson County,48233,14,19%
+Texas,TX,Irion County,48235,12,19%
+Texas,TX,Jack County,48237,14,19%
+Texas,TX,Jackson County,48239,18,19%
+Texas,TX,Jasper County,48241,17,19%
+Texas,TX,Jeff Davis County,48243,15,19%
+Texas,TX,Jefferson County,48245,18,19%
+Texas,TX,Jim Hogg County,48247,33,19%
+Texas,TX,Jim Wells County,48249,27,19%
+Texas,TX,Johnson County,48251,12,19%
+Texas,TX,Jones County,48253,19,19%
+Texas,TX,Karnes County,48255,26,19%
+Texas,TX,Kaufman County,48257,14,19%
+Texas,TX,Kendall County,48259,8,19%
+Texas,TX,Kenedy County,48261,32,19%
+Texas,TX,Kent County,48263,12,19%
+Texas,TX,Kerr County,48265,12,19%
+Texas,TX,Kimble County,48267,17,19%
+Texas,TX,King County,48269,10,19%
+Texas,TX,Kinney County,48271,22,19%
+Texas,TX,Kleberg County,48273,23,19%
+Texas,TX,Knox County,48275,21,19%
+Texas,TX,Lamar County,48277,13,19%
+Texas,TX,Lamb County,48279,22,19%
+Texas,TX,Lampasas County,48281,12,19%
+Texas,TX,La Salle County,48283,34,19%
+Texas,TX,Lavaca County,48285,17,19%
+Texas,TX,Lee County,48287,19,19%
+Texas,TX,Leon County,48289,16,19%
+Texas,TX,Liberty County,48291,16,19%
+Texas,TX,Limestone County,48293,19,19%
+Texas,TX,Lipscomb County,48295,17,19%
+Texas,TX,Live Oak County,48297,17,19%
+Texas,TX,Llano County,48299,10,19%
+Texas,TX,Loving County,48301,10,19%
+Texas,TX,Lubbock County,48303,13,19%
+Texas,TX,Lynn County,48305,22,19%
+Texas,TX,McCulloch County,48307,18,19%
+Texas,TX,McLennan County,48309,15,19%
+Texas,TX,McMullen County,48311,17,19%
+Texas,TX,Madison County,48313,22,19%
+Texas,TX,Marion County,48315,17,19%
+Texas,TX,Martin County,48317,23,19%
+Texas,TX,Mason County,48319,12,19%
+Texas,TX,Matagorda County,48321,22,19%
+Texas,TX,Maverick County,48323,56,19%
+Texas,TX,Medina County,48325,17,19%
+Texas,TX,Menard County,48327,18,19%
+Texas,TX,Midland County,48329,13,19%
+Texas,TX,Milam County,48331,19,19%
+Texas,TX,Mills County,48333,14,19%
+Texas,TX,Mitchell County,48335,22,19%
+Texas,TX,Montague County,48337,13,19%
+Texas,TX,Montgomery County,48339,11,19%
+Texas,TX,Moore County,48341,32,19%
+Texas,TX,Morris County,48343,16,19%
+Texas,TX,Motley County,48345,15,19%
+Texas,TX,Nacogdoches County,48347,16,19%
+Texas,TX,Navarro County,48349,20,19%
+Texas,TX,Newton County,48351,20,19%
+Texas,TX,Nolan County,48353,18,19%
+Texas,TX,Nueces County,48355,17,19%
+Texas,TX,Ochiltree County,48357,22,19%
+Texas,TX,Oldham County,48359,11,19%
+Texas,TX,Orange County,48361,13,19%
+Texas,TX,Palo Pinto County,48363,15,19%
+Texas,TX,Panola County,48365,14,19%
+Texas,TX,Parker County,48367,9,19%
+Texas,TX,Parmer County,48369,30,19%
+Texas,TX,Pecos County,48371,28,19%
+Texas,TX,Polk County,48373,17,19%
+Texas,TX,Potter County,48375,20,19%
+Texas,TX,Presidio County,48377,61,19%
+Texas,TX,Rains County,48379,14,19%
+Texas,TX,Randall County,48381,7,19%
+Texas,TX,Reagan County,48383,25,19%
+Texas,TX,Real County,48385,14,19%
+Texas,TX,Red River County,48387,18,19%
+Texas,TX,Reeves County,48389,37,19%
+Texas,TX,Refugio County,48391,21,19%
+Texas,TX,Roberts County,48393,7,19%
+Texas,TX,Robertson County,48395,21,19%
+Texas,TX,Rockwall County,48397,8,19%
+Texas,TX,Runnels County,48399,19,19%
+Texas,TX,Rusk County,48401,16,19%
+Texas,TX,Sabine County,48403,14,19%
+Texas,TX,San Augustine County,48405,19,19%
+Texas,TX,San Jacinto County,48407,15,19%
+Texas,TX,San Patricio County,48409,20,19%
+Texas,TX,San Saba County,48411,17,19%
+Texas,TX,Schleicher County,48413,23,19%
+Texas,TX,Scurry County,48415,16,19%
+Texas,TX,Shackelford County,48417,12,19%
+Texas,TX,Shelby County,48419,21,19%
+Texas,TX,Sherman County,48421,18,19%
+Texas,TX,Smith County,48423,13,19%
+Texas,TX,Somervell County,48425,13,19%
+Texas,TX,Starr County,48427,65,19%
+Texas,TX,Stephens County,48429,15,19%
+Texas,TX,Sterling County,48431,16,19%
+Texas,TX,Stonewall County,48433,16,19%
+Texas,TX,Sutton County,48435,25,19%
+Texas,TX,Swisher County,48437,18,19%
+Texas,TX,Tarrant County,48439,14,19%
+Texas,TX,Taylor County,48441,12,19%
+Texas,TX,Terrell County,48443,22,19%
+Texas,TX,Terry County,48445,25,19%
+Texas,TX,Throckmorton County,48447,11,19%
+Texas,TX,Titus County,48449,29,19%
+Texas,TX,Tom Green County,48451,15,19%
+Texas,TX,Travis County,48453,13,19%
+Texas,TX,Trinity County,48455,16,19%
+Texas,TX,Tyler County,48457,16,19%
+Texas,TX,Upshur County,48459,13,19%
+Texas,TX,Upton County,48461,24,19%
+Texas,TX,Uvalde County,48463,27,19%
+Texas,TX,Val Verde County,48465,35,19%
+Texas,TX,Van Zandt County,48467,14,19%
+Texas,TX,Victoria County,48469,16,19%
+Texas,TX,Walker County,48471,18,19%
+Texas,TX,Waller County,48473,20,19%
+Texas,TX,Ward County,48475,21,19%
+Texas,TX,Washington County,48477,15,19%
+Texas,TX,Webb County,48479,48,19%
+Texas,TX,Wharton County,48481,20,19%
+Texas,TX,Wheeler County,48483,15,19%
+Texas,TX,Wichita County,48485,13,19%
+Texas,TX,Wilbarger County,48487,15,19%
+Texas,TX,Willacy County,48489,40,19%
+Texas,TX,Williamson County,48491,8,19%
+Texas,TX,Wilson County,48493,15,19%
+Texas,TX,Winkler County,48495,26,19%
+Texas,TX,Wise County,48497,12,19%
+Texas,TX,Wood County,48499,13,19%
+Texas,TX,Yoakum County,48501,29,19%
+Texas,TX,Young County,48503,13,19%
+Texas,TX,Zapata County,48505,46,19%
+Texas,TX,Zavala County,48507,42,19%
+Utah,UT,Beaver County,49001,12,9%
+Utah,UT,Box Elder County,49003,9,9%
+Utah,UT,Cache County,49005,9,9%
+Utah,UT,Carbon County,49007,11,9%
+Utah,UT,Daggett County,49009,10,9%
+Utah,UT,Davis County,49011,7,9%
+Utah,UT,Duchesne County,49013,12,9%
+Utah,UT,Emery County,49015,10,9%
+Utah,UT,Garfield County,49017,9,9%
+Utah,UT,Grand County,49019,9,9%
+Utah,UT,Iron County,49021,8,9%
+Utah,UT,Juab County,49023,10,9%
+Utah,UT,Kane County,49025,8,9%
+Utah,UT,Millard County,49027,10,9%
+Utah,UT,Morgan County,49029,7,9%
+Utah,UT,Piute County,49031,11,9%
+Utah,UT,Rich County,49033,8,9%
+Utah,UT,Salt Lake County,49035,11,9%
+Utah,UT,San Juan County,49037,12,9%
+Utah,UT,Sanpete County,49039,11,9%
+Utah,UT,Sevier County,49041,9,9%
+Utah,UT,Summit County,49043,7,9%
+Utah,UT,Tooele County,49045,10,9%
+Utah,UT,Uintah County,49047,11,9%
+Utah,UT,Utah County,49049,8,9%
+Utah,UT,Wasatch County,49051,8,9%
+Utah,UT,Washington County,49053,8,9%
+Utah,UT,Wayne County,49055,8,9%
+Utah,UT,Weber County,49057,11,9%
+Virginia,VA,Accomack County,51001,20,12%
+Virginia,VA,Albemarle County,51003,8,12%
+Virginia,VA,Alleghany County,51005,12,12%
+Virginia,VA,Amelia County,51007,15,12%
+Virginia,VA,Amherst County,51009,14,12%
+Virginia,VA,Appomattox County,51011,16,12%
+Virginia,VA,Arlington County,51013,17,12%
+Virginia,VA,Augusta County,51015,12,12%
+Virginia,VA,Bath County,51017,14,12%
+Virginia,VA,Bedford County,51019,10,12%
+Virginia,VA,Bland County,51021,14,12%
+Virginia,VA,Botetourt County,51023,10,12%
+Virginia,VA,Brunswick County,51025,22,12%
+Virginia,VA,Buchanan County,51027,17,12%
+Virginia,VA,Buckingham County,51029,22,12%
+Virginia,VA,Campbell County,51031,13,12%
+Virginia,VA,Caroline County,51033,16,12%
+Virginia,VA,Carroll County,51035,14,12%
+Virginia,VA,Charles City County,51036,20,12%
+Virginia,VA,Charlotte County,51037,20,12%
+Virginia,VA,Chesterfield County,51041,8,12%
+Virginia,VA,Clarke County,51043,9,12%
+Virginia,VA,Craig County,51045,12,12%
+Virginia,VA,Culpeper County,51047,15,12%
+Virginia,VA,Cumberland County,51049,18,12%
+Virginia,VA,Dickenson County,51051,16,12%
+Virginia,VA,Dinwiddie County,51053,16,12%
+Virginia,VA,Essex County,51057,17,12%
+Virginia,VA,Fairfax County,51059,11,12%
+Virginia,VA,Fauquier County,51061,8,12%
+Virginia,VA,Floyd County,51063,14,12%
+Virginia,VA,Fluvanna County,51065,11,12%
+Virginia,VA,Franklin County,51067,12,12%
+Virginia,VA,Frederick County,51069,11,12%
+Virginia,VA,Giles County,51071,13,12%
+Virginia,VA,Gloucester County,51073,9,12%
+Virginia,VA,Goochland County,51075,10,12%
+Virginia,VA,Grayson County,51077,17,12%
+Virginia,VA,Greene County,51079,11,12%
+Virginia,VA,Greensville County,51081,26,12%
+Virginia,VA,Halifax County,51083,20,12%
+Virginia,VA,Hanover County,51085,7,12%
+Virginia,VA,Henrico County,51087,9,12%
+Virginia,VA,Henry County,51089,18,12%
+Virginia,VA,Highland County,51091,12,12%
+Virginia,VA,Isle of Wight County,51093,11,12%
+Virginia,VA,James City County,51095,7,12%
+Virginia,VA,King and Queen County,51097,16,12%
+Virginia,VA,King George County,51099,11,12%
+Virginia,VA,King William County,51101,12,12%
+Virginia,VA,Lancaster County,51103,13,12%
+Virginia,VA,Lee County,51105,15,12%
+Virginia,VA,Loudoun County,51107,7,12%
+Virginia,VA,Louisa County,51109,13,12%
+Virginia,VA,Lunenburg County,51111,20,12%
+Virginia,VA,Madison County,51113,13,12%
+Virginia,VA,Mathews County,51115,9,12%
+Virginia,VA,Mecklenburg County,51117,19,12%
+Virginia,VA,Middlesex County,51119,13,12%
+Virginia,VA,Montgomery County,51121,10,12%
+Virginia,VA,Nelson County,51125,13,12%
+Virginia,VA,New Kent County,51127,10,12%
+Virginia,VA,Northampton County,51131,20,12%
+Virginia,VA,Northumberland County,51133,13,12%
+Virginia,VA,Nottoway County,51135,20,12%
+Virginia,VA,Orange County,51137,13,12%
+Virginia,VA,Page County,51139,16,12%
+Virginia,VA,Patrick County,51141,16,12%
+Virginia,VA,Pittsylvania County,51143,17,12%
+Virginia,VA,Powhatan County,51145,10,12%
+Virginia,VA,Prince Edward County,51147,16,12%
+Virginia,VA,Prince George County,51149,12,12%
+Virginia,VA,Prince William County,51153,11,12%
+Virginia,VA,Pulaski County,51155,12,12%
+Virginia,VA,Rappahannock County,51157,10,12%
+Virginia,VA,Richmond County,51159,20,12%
+Virginia,VA,Roanoke County,51161,8,12%
+Virginia,VA,Rockbridge County,51163,12,12%
+Virginia,VA,Rockingham County,51165,13,12%
+Virginia,VA,Russell County,51167,15,12%
+Virginia,VA,Scott County,51169,15,12%
+Virginia,VA,Shenandoah County,51171,13,12%
+Virginia,VA,Smyth County,51173,13,12%
+Virginia,VA,Southampton County,51175,17,12%
+Virginia,VA,Spotsylvania County,51177,9,12%
+Virginia,VA,Stafford County,51179,8,12%
+Virginia,VA,Surry County,51181,17,12%
+Virginia,VA,Sussex County,51183,24,12%
+Virginia,VA,Tazewell County,51185,13,12%
+Virginia,VA,Warren County,51187,11,12%
+Virginia,VA,Washington County,51191,11,12%
+Virginia,VA,Westmoreland County,51193,18,12%
+Virginia,VA,Wise County,51195,14,12%
+Virginia,VA,Wythe County,51197,12,12%
+Virginia,VA,York County,51199,6,12%
+Virginia,VA,Alexandria city,51510,16,12%
+Virginia,VA,Bedford city,51515,15,12%
+Virginia,VA,Bristol city,51520,12,12%
+Virginia,VA,Buena Vista city,51530,13,12%
+Virginia,VA,Charlottesville city,51540,13,12%
+Virginia,VA,Chesapeake city,51550,10,12%
+Virginia,VA,Clifton Forge city,51560,14,12%
+Virginia,VA,Colonial Heights city,51570,9,12%
+Virginia,VA,Covington city,51580,16,12%
+Virginia,VA,Danville city,51590,18,12%
+Virginia,VA,Emporia city,51595,25,12%
+Virginia,VA,Fairfax city,51600,14,12%
+Virginia,VA,Falls Church city,51610,7,12%
+Virginia,VA,Franklin city,51620,17,12%
+Virginia,VA,Fredericksburg city,51630,11,12%
+Virginia,VA,Galax city,51640,21,12%
+Virginia,VA,Hampton city,51650,12,12%
+Virginia,VA,Harrisonburg city,51660,15,12%
+Virginia,VA,Hopewell city,51670,15,12%
+Virginia,VA,Lexington city,51678,10,12%
+Virginia,VA,Lynchburg city,51680,13,12%
+Virginia,VA,Manassas city,51683,13,12%
+Virginia,VA,Manassas Park city,51685,16,12%
+Virginia,VA,Martinsville city,51690,19,12%
+Virginia,VA,Newport News city,51700,12,12%
+Virginia,VA,Norfolk city,51710,18,12%
+Virginia,VA,Norton city,51720,13,12%
+Virginia,VA,Petersburg city,51730,22,12%
+Virginia,VA,Poquoson city,51735,6,12%
+Virginia,VA,Portsmouth city,51740,15,12%
+Virginia,VA,Radford city,51750,9,12%
+Virginia,VA,Richmond city,51760,16,12%
+Virginia,VA,Roanoke city,51770,14,12%
+Virginia,VA,Salem city,51775,10,12%
+Virginia,VA,Staunton city,51790,12,12%
+Virginia,VA,Suffolk city,51800,18,12%
+Virginia,VA,Virginia Beach city,51810,8,12%
+Virginia,VA,Waynesboro city,51820,12,12%
+Virginia,VA,Williamsburg city,51830,8,12%
+Virginia,VA,Winchester city,51840,14,12%
+Vermont,VT,Addison County,50001,7,7%
+Vermont,VT,Bennington County,50003,7,7%
+Vermont,VT,Caledonia County,50005,8,7%
+Vermont,VT,Chittenden County,50007,5,7%
+Vermont,VT,Essex County,50009,11,7%
+Vermont,VT,Franklin County,50011,8,7%
+Vermont,VT,Grand Isle County,50013,7,7%
+Vermont,VT,Lamoille County,50015,6,7%
+Vermont,VT,Orange County,50017,7,7%
+Vermont,VT,Orleans County,50019,9,7%
+Vermont,VT,Rutland County,50021,7,7%
+Vermont,VT,Washington County,50023,6,7%
+Vermont,VT,Windham County,50025,6,7%
+Vermont,VT,Windsor County,50027,6,7%
+Washington,WA,Adams County,53001,32,10%
+Washington,WA,Asotin County,53003,9,10%
+Washington,WA,Benton County,53005,9,10%
+Washington,WA,Chelan County,53007,15,10%
+Washington,WA,Clallam County,53009,8,10%
+Washington,WA,Clark County,53011,8,10%
+Washington,WA,Columbia County,53013,10,10%
+Washington,WA,Cowlitz County,53015,10,10%
+Washington,WA,Douglas County,53017,16,10%
+Washington,WA,Ferry County,53019,10,10%
+Washington,WA,Franklin County,53021,34,10%
+Washington,WA,Garfield County,53023,8,10%
+Washington,WA,Grant County,53025,22,10%
+Washington,WA,Grays Harbor County,53027,11,10%
+Washington,WA,Island County,53029,6,10%
+Washington,WA,Jefferson County,53031,7,10%
+Washington,WA,King County,53033,8,10%
+Washington,WA,Kitsap County,53035,7,10%
+Washington,WA,Kittitas County,53037,10,10%
+Washington,WA,Klickitat County,53039,13,10%
+Washington,WA,Lewis County,53041,11,10%
+Washington,WA,Lincoln County,53043,8,10%
+Washington,WA,Mason County,53045,10,10%
+Washington,WA,Okanogan County,53047,16,10%
+Washington,WA,Pacific County,53049,12,10%
+Washington,WA,Pend Oreille County,53051,10,10%
+Washington,WA,Pierce County,53053,9,10%
+Washington,WA,San Juan County,53055,6,10%
+Washington,WA,Skagit County,53057,9,10%
+Washington,WA,Skamania County,53059,8,10%
+Washington,WA,Snohomish County,53061,10,10%
+Washington,WA,Spokane County,53063,8,10%
+Washington,WA,Stevens County,53065,10,10%
+Washington,WA,Thurston County,53067,8,10%
+Washington,WA,Wahkiakum County,53069,8,10%
+Washington,WA,Walla Walla County,53071,12,10%
+Washington,WA,Whatcom County,53073,10,10%
+Washington,WA,Whitman County,53075,8,10%
+Washington,WA,Yakima County,53077,24,10%
+Wisconsin,WI,Adams County,55001,9,7%
+Wisconsin,WI,Ashland County,55003,8,7%
+Wisconsin,WI,Barron County,55005,8,7%
+Wisconsin,WI,Bayfield County,55007,6,7%
+Wisconsin,WI,Brown County,55009,7,7%
+Wisconsin,WI,Buffalo County,55011,8,7%
+Wisconsin,WI,Burnett County,55013,8,7%
+Wisconsin,WI,Calumet County,55015,7,7%
+Wisconsin,WI,Chippewa County,55017,7,7%
+Wisconsin,WI,Clark County,55019,10,7%
+Wisconsin,WI,Columbia County,55021,7,7%
+Wisconsin,WI,Crawford County,55023,8,7%
+Wisconsin,WI,Dane County,55025,5,7%
+Wisconsin,WI,Dodge County,55027,8,7%
+Wisconsin,WI,Door County,55029,7,7%
+Wisconsin,WI,Douglas County,55031,7,7%
+Wisconsin,WI,Dunn County,55033,7,7%
+Wisconsin,WI,Eau Claire County,55035,6,7%
+Wisconsin,WI,Florence County,55037,8,7%
+Wisconsin,WI,Fond du Lac County,55039,8,7%
+Wisconsin,WI,Forest County,55041,9,7%
+Wisconsin,WI,Grant County,55043,8,7%
+Wisconsin,WI,Green County,55045,7,7%
+Wisconsin,WI,Green Lake County,55047,8,7%
+Wisconsin,WI,Iowa County,55049,7,7%
+Wisconsin,WI,Iron County,55051,7,7%
+Wisconsin,WI,Jackson County,55053,9,7%
+Wisconsin,WI,Jefferson County,55055,7,7%
+Wisconsin,WI,Juneau County,55057,9,7%
+Wisconsin,WI,Kenosha County,55059,7,7%
+Wisconsin,WI,Kewaunee County,55061,9,7%
+Wisconsin,WI,La Crosse County,55063,6,7%
+Wisconsin,WI,Lafayette County,55065,8,7%
+Wisconsin,WI,Langlade County,55067,9,7%
+Wisconsin,WI,Lincoln County,55069,8,7%
+Wisconsin,WI,Manitowoc County,55071,8,7%
+Wisconsin,WI,Marathon County,55073,8,7%
+Wisconsin,WI,Marinette County,55075,8,7%
+Wisconsin,WI,Marquette County,55077,9,7%
+Wisconsin,WI,Menominee County,55078,11,7%
+Wisconsin,WI,Milwaukee County,55079,9,7%
+Wisconsin,WI,Monroe County,55081,8,7%
+Wisconsin,WI,Oconto County,55083,9,7%
+Wisconsin,WI,Oneida County,55085,7,7%
+Wisconsin,WI,Outagamie County,55087,7,7%
+Wisconsin,WI,Ozaukee County,55089,4,7%
+Wisconsin,WI,Pepin County,55091,8,7%
+Wisconsin,WI,Pierce County,55093,5,7%
+Wisconsin,WI,Polk County,55095,7,7%
+Wisconsin,WI,Portage County,55097,7,7%
+Wisconsin,WI,Price County,55099,8,7%
+Wisconsin,WI,Racine County,55101,8,7%
+Wisconsin,WI,Richland County,55103,8,7%
+Wisconsin,WI,Rock County,55105,8,7%
+Wisconsin,WI,Rusk County,55107,9,7%
+Wisconsin,WI,St. Croix County,55109,5,7%
+Wisconsin,WI,Sauk County,55111,7,7%
+Wisconsin,WI,Sawyer County,55113,8,7%
+Wisconsin,WI,Shawano County,55115,9,7%
+Wisconsin,WI,Sheboygan County,55117,8,7%
+Wisconsin,WI,Taylor County,55119,9,7%
+Wisconsin,WI,Trempealeau County,55121,8,7%
+Wisconsin,WI,Vernon County,55123,8,7%
+Wisconsin,WI,Vilas County,55125,7,7%
+Wisconsin,WI,Walworth County,55127,8,7%
+Wisconsin,WI,Washburn County,55129,8,7%
+Wisconsin,WI,Washington County,55131,5,7%
+Wisconsin,WI,Waukesha County,55133,4,7%
+Wisconsin,WI,Waupaca County,55135,8,7%
+Wisconsin,WI,Waushara County,55137,9,7%
+Wisconsin,WI,Winnebago County,55139,7,7%
+Wisconsin,WI,Wood County,55141,8,7%
+West Virginia,WV,Barbour County,54001,16,13%
+West Virginia,WV,Berkeley County,54003,13,13%
+West Virginia,WV,Boone County,54005,17,13%
+West Virginia,WV,Braxton County,54007,16,13%
+West Virginia,WV,Brooke County,54009,12,13%
+West Virginia,WV,Cabell County,54011,11,13%
+West Virginia,WV,Calhoun County,54013,18,13%
+West Virginia,WV,Clay County,54015,19,13%
+West Virginia,WV,Doddridge County,54017,15,13%
+West Virginia,WV,Fayette County,54019,16,13%
+West Virginia,WV,Gilmer County,54021,15,13%
+West Virginia,WV,Grant County,54023,15,13%
+West Virginia,WV,Greenbrier County,54025,14,13%
+West Virginia,WV,Hampshire County,54027,15,13%
+West Virginia,WV,Hancock County,54029,13,13%
+West Virginia,WV,Hardy County,54031,16,13%
+West Virginia,WV,Harrison County,54033,13,13%
+West Virginia,WV,Jackson County,54035,12,13%
+West Virginia,WV,Jefferson County,54037,10,13%
+West Virginia,WV,Kanawha County,54039,12,13%
+West Virginia,WV,Lewis County,54041,15,13%
+West Virginia,WV,Lincoln County,54043,18,13%
+West Virginia,WV,Logan County,54045,16,13%
+West Virginia,WV,McDowell County,54047,22,13%
+West Virginia,WV,Marion County,54049,13,13%
+West Virginia,WV,Marshall County,54051,13,13%
+West Virginia,WV,Mason County,54053,16,13%
+West Virginia,WV,Mercer County,54055,14,13%
+West Virginia,WV,Mineral County,54057,13,13%
+West Virginia,WV,Mingo County,54059,17,13%
+West Virginia,WV,Monongalia County,54061,11,13%
+West Virginia,WV,Monroe County,54063,16,13%
+West Virginia,WV,Morgan County,54065,14,13%
+West Virginia,WV,Nicholas County,54067,15,13%
+West Virginia,WV,Ohio County,54069,11,13%
+West Virginia,WV,Pendleton County,54071,15,13%
+West Virginia,WV,Pleasants County,54073,14,13%
+West Virginia,WV,Pocahontas County,54075,15,13%
+West Virginia,WV,Preston County,54077,15,13%
+West Virginia,WV,Putnam County,54079,10,13%
+West Virginia,WV,Raleigh County,54081,14,13%
+West Virginia,WV,Randolph County,54083,14,13%
+West Virginia,WV,Ritchie County,54085,13,13%
+West Virginia,WV,Roane County,54087,16,13%
+West Virginia,WV,Summers County,54089,17,13%
+West Virginia,WV,Taylor County,54091,15,13%
+West Virginia,WV,Tucker County,54093,15,13%
+West Virginia,WV,Tyler County,54095,14,13%
+West Virginia,WV,Upshur County,54097,15,13%
+West Virginia,WV,Wayne County,54099,14,13%
+West Virginia,WV,Webster County,54101,18,13%
+West Virginia,WV,Wetzel County,54103,14,13%
+West Virginia,WV,Wirt County,54105,15,13%
+West Virginia,WV,Wood County,54107,11,13%
+West Virginia,WV,Wyoming County,54109,17,13%
+Wyoming,WY,Albany County,56001,8,9%
+Wyoming,WY,Big Horn County,56003,11,9%
+Wyoming,WY,Campbell County,56005,9,9%
+Wyoming,WY,Carbon County,56007,11,9%
+Wyoming,WY,Converse County,56009,10,9%
+Wyoming,WY,Crook County,56011,10,9%
+Wyoming,WY,Fremont County,56013,10,9%
+Wyoming,WY,Goshen County,56015,10,9%
+Wyoming,WY,Hot Springs County,56017,10,9%
+Wyoming,WY,Johnson County,56019,8,9%
+Wyoming,WY,Laramie County,56021,8,9%
+Wyoming,WY,Lincoln County,56023,9,9%
+Wyoming,WY,Natrona County,56025,9,9%
+Wyoming,WY,Niobrara County,56027,10,9%
+Wyoming,WY,Park County,56029,8,9%
+Wyoming,WY,Platte County,56031,11,9%
+Wyoming,WY,Sheridan County,56033,8,9%
+Wyoming,WY,Sublette County,56035,9,9%
+Wyoming,WY,Sweetwater County,56037,10,9%
+Wyoming,WY,Teton County,56039,7,9%
+Wyoming,WY,Uinta County,56041,10,9%
+Wyoming,WY,Washakie County,56043,10,9%
+Wyoming,WY,Weston County,56045,10,9%
