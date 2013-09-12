@@ -13,9 +13,7 @@ $(function() {
       minZoom: 3,
       detectRetina: true,
       retinaVersion: 'wamu.map-jseql4x8',
-      scrollWheelZoom: false,
-      scrollZoom: false,
-
+      scrollWheelZoom: false
     }).setView([38.91,-77],7);
 
     var tileLayer = L.mapbox.tileLayer('wamu.literacy-map')
