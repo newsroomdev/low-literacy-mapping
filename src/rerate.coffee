@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env coffee
 
 fs = require 'fs'
 _ = require 'underscore'
