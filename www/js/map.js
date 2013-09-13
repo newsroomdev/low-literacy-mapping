@@ -12,7 +12,7 @@ var projection = d3.geo.albersUsa()
 // select a range of > 90% of literacy data (0 to 30%)
 // quantize into 9 buckets
 var quantize = d3.scale.quantize()
-  .domain([0, 30])
+  .domain([0, .3])
   .range(colorbrewer.YlOrBr[9]);
 
 var path = d3.geo.path().projection(projection);

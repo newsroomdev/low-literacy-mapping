@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "rerate.js",
+  "sourceRoot": "..",
+  "sources": [
+    "src/rerate.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAEA;CAAA,KAAA,gCAAA;;CAAA,CAAA,CAAK,CAAA,GAAA;;CAAL,CACA,CAAI,IAAA,KAAA;;CADJ,CAGA,CAAW,CAAI,CAAJ,GAAX,CAAsB,GAAA;;CAHtB,CAIA,CAAA,IAAsB,CAAR,EAJd;;CAAA,CAKA,CAAA,EAAM,CAAA;;AAEN,CAAA,MAAA,mCAAA;iBAAA;CAAA,EAAI,CAAJ,MAAiB;CAAjB,EAPA;;CAAA,CASA,EAAkC,IAAJ,CAAA,CAA9B,GAAA;CATA"
+}
