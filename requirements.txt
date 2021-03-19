@@ -2,7 +2,7 @@ Fabric==1.4.3
 pycrypto==2.6
 ssh==1.7.14
 wsgiref==0.1.2
-Jinja2==2.6
+Jinja2==2.11.3
 flask==0.9
 Werkzeug==0.15.3
 envoy==0.0.2
